@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/detector_rail",
+	"textures": {
+		"0": "moreminecarts:block/colored_detector_white_on",
+		"particle": "moreminecarts:block/colored_detector_white_on"
+	}
+}
