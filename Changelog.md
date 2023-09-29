@@ -1,5 +1,10 @@
 # RAY's 3D Rails Changelog
 
+## 1.2
+
+### Added:
+- Xannosz's Better Minecarts Support
+
 ## 1.1
 
 ### Added:
