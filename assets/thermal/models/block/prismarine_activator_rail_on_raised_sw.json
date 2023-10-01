@@ -1,0 +1,7 @@
+{
+	"parent": "thermal:block/prismarine_activator_rail_raised_sw",
+	"textures": {
+		"0": "thermal:block/prismarine_activator_rail_on_raised_sw",
+		"particle": "thermal:block/prismarine_activator_rail_on_raised_sw"
+	}
+}

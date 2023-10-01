@@ -1,5 +1,5 @@
 {
-	"parent": "powered_rail_raised_sw",
+	"parent": "block/powered_rail_raised_sw",
 	"textures": {
 		"0": "block/powered_rail_on_raised_sw",
 		"particle": "block/powered_rail_on_raised_sw"

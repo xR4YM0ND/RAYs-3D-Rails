@@ -1,0 +1,7 @@
+{
+	"parent": "thermal:block/prismarine_detector_rail",
+	"textures": {
+		"0": "thermal:block/prismarine_detector_rail_on",
+		"particle": "thermal:block/prismarine_detector_rail_on"
+	}
+}

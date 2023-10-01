@@ -1,5 +1,17 @@
 # RAY's 3D Rails Changelog
 
+## 1.3
+
+### Added:
+- Thermal Locomotion Support
+
+### Fixed:
+- Powered Rail Raised On SW
+- Maglev Powered Rail Raised
+
+### Changed:
+- Solid to translucent hologram rails (thx to @Xannosz)
+
 ## 1.2
 
 ### Added:
