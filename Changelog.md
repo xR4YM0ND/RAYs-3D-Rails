@@ -1,5 +1,10 @@
 # RAY's 3D Rails Changelog
 
+## 1.4
+
+### Added:
+- Useful Railroads Support
+
 ## 1.3
 
 ### Added:

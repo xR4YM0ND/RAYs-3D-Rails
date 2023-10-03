@@ -1,0 +1,7 @@
+{
+	"parent": "usefulrailroads:block/highspeed_rail",
+	"textures": {
+		"0": "usefulrailroads:block/highspeed_powered_rail",
+		"particle": "usefulrailroads:block/highspeed_powered_rail"
+	}
+}

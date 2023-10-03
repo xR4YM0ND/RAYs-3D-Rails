@@ -1,0 +1,7 @@
+{
+	"parent": "usefulrailroads:block/direction_rail",
+	"textures": {
+		"0": "usefulrailroads:block/teleport_powered_rail",
+		"particle": "usefulrailroads:block/teleport_powered_rail"
+	}
+}
