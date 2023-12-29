@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench, by xR4YM0ND",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "moreminecarts:block/locking_powered_rail_inverted_off",
-		"particle": "moreminecarts:block/locking_powered_rail_inverted_off"
+		"0": "moreminecarts:block/rays_locking_powered_rail_inverted_off",
+		"particle": "moreminecarts:block/rays_locking_powered_rail_inverted_off"
 	},
 	"elements": [
 		{
@@ -295,6 +295,12 @@
 			}
 		}
 	],
+	"display": {
+		"ground": {
+			"translation": [0, 2.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	},
 	"groups": [
 		{
 			"name": "rail",

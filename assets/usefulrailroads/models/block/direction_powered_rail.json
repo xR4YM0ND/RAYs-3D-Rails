@@ -1,7 +1,7 @@
 {
 	"parent": "usefulrailroads:block/direction_rail",
 	"textures": {
-		"0": "usefulrailroads:block/direction_powered_rail",
-		"particle": "usefulrailroads:block/direction_powered_rail"
+		"0": "usefulrailroads:block/rays_direction_powered_rail",
+		"particle": "usefulrailroads:block/rays_direction_powered_rail"
 	}
 }

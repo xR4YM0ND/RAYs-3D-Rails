@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench, by xR4YM0ND",
 	"textures": {
-		"0": "block/rail_corner",
-		"particle": "block/rail_corner"
+		"0": "block/rays_rail_corner",
+		"particle": "block/rays_rail_corner"
 	},
 	"elements": [
 		{

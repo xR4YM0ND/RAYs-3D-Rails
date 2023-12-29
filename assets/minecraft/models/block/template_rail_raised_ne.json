@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench, by xR4YM0ND",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/template_rail_raised_ne",
-		"particle": "block/template_rail_raised_ne"
+		"0": "block/rays_template_rail_raised_ne",
+		"particle": "block/rays_template_rail_raised_ne"
 	},
 	"elements": [
 		{

@@ -3,8 +3,8 @@
 	"render_type": "translucent",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "moreminecarts:block/maglev_hologram_rail_raised_sw",
-		"particle": "moreminecarts:block/maglev_hologram_rail_raised_sw"
+		"0": "moreminecarts:block/rays_maglev_hologram_rail_raised_sw",
+		"particle": "moreminecarts:block/rays_maglev_hologram_rail_raised_sw"
 	},
 	"elements": [
 		{

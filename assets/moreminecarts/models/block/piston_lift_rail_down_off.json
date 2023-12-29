@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench, by xR4YM0ND",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "moreminecarts:block/piston_lift_rail_down_off",
-		"particle": "moreminecarts:block/piston_lift_rail_down_off"
+		"1": "moreminecarts:block/rays_piston_lift_rail_down_off",
+		"particle": "moreminecarts:block/rays_piston_lift_rail_down_off"
 	},
 	"elements": [
 		{
@@ -211,6 +211,12 @@
 			}
 		}
 	],
+	"display": {
+		"ground": {
+			"translation": [0, 2.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	},
 	"groups": [
 		{
 			"name": "rail",

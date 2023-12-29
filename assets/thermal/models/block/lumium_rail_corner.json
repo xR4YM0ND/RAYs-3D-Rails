@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench, by xR4YM0ND",
 	"textures": {
-		"0": "thermal:block/lumium_rail_corner",
-		"particle": "block/lumium_rail_corner"
+		"0": "thermal:block/rays_lumium_rail_corner",
+		"particle": "thermal:block/rays_lumium_rail_corner"
 	},
 	"elements": [
 		{

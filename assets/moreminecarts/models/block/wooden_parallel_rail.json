@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "moreminecarts:block/wooden_parallel_rail",
-		"particle": "moreminecarts:block/wooden_parallel_rail"
+		"1": "moreminecarts:block/rays_wooden_parallel_rail",
+		"particle": "moreminecarts:block/rays_wooden_parallel_rail"
 	},
 	"elements": [
 		{
@@ -136,6 +136,7 @@
 			"translation": [3, 0.5, -6]
 		},
 		"ground": {
+			"translation": [0, 2.5, 0],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"gui": {

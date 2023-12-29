@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench, by xR4YM0ND",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "moreminecarts:block/wooden_parallel_rail_raised_ne",
-		"particle": "moreminecarts:block/wooden_parallel_rail_raised_ne"
+		"1": "moreminecarts:block/rays_wooden_parallel_rail_raised_ne",
+		"particle": "moreminecarts:block/rays_wooden_parallel_rail_raised_ne"
 	},
 	"elements": [
 		{

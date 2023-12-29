@@ -1,7 +1,7 @@
 {
 	"parent": "block/activator_rail_raised_ne",
 	"textures": {
-		"0": "block/activator_rail_on_raised_ne",
-		"particle": "block/activator_rail_on_raised_ne"
+		"0": "block/rays_activator_rail_on_raised_ne",
+		"particle": "block/rays_activator_rail_on_raised_ne"
 	}
 }

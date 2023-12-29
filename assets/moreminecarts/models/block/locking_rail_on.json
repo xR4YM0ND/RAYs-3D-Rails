@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench, by xR4YM0ND",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "moreminecarts:block/locking_rail_on",
-		"particle": "moreminecarts:block/locking_rail_on"
+		"2": "moreminecarts:block/rays_locking_rail_on",
+		"particle": "moreminecarts:block/rays_locking_rail_on"
 	},
 	"elements": [
 		{
@@ -490,6 +490,12 @@
 			}
 		}
 	],
+	"display": {
+		"ground": {
+			"translation": [0, 2.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	},
 	"groups": [
 		{
 			"name": "rail",

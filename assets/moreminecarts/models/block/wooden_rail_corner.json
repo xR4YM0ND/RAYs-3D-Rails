@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "moreminecarts:block/wooden_rail_corner",
-		"particle": "moreminecarts:block/wooden_rail_corner"
+		"0": "moreminecarts:block/rays_wooden_rail_corner",
+		"particle": "moreminecarts:block/rays_wooden_rail_corner"
 	},
 	"elements": [
 		{

@@ -1,7 +1,7 @@
 {
 	"parent": "moreminecarts:block/piston_lift_rail_up_off",
 	"textures": {
-		"2": "moreminecarts:block/piston_lift_rail_up_on",
-		"particle": "moreminecarts:block/piston_lift_rail_up_on"
+		"2": "moreminecarts:block/rays_piston_lift_rail_up_on",
+		"particle": "moreminecarts:block/rays_piston_lift_rail_up_on"
 	}
 }

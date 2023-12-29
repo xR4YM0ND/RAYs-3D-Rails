@@ -3,8 +3,8 @@
 	"render_type": "cutout",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "betterminecarts:block/dead_end",
-		"particle": "betterminecarts:block/dead_end"
+		"1": "betterminecarts:block/rays_dead_end",
+		"particle": "betterminecarts:block/rays_dead_end"
 	},
 	"elements": [
 		{
@@ -364,6 +364,7 @@
 			"translation": [3, 0.5, -6]
 		},
 		"ground": {
+			"translation": [0, 2.5, 0],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"gui": {

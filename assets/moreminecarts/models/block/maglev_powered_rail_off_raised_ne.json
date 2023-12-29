@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench, by xR4YM0ND",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "moreminecarts:block/maglev_powered_rail_off_raised_ne",
-		"particle": "moreminecarts:block/maglev_powered_rail_off_raised_ne"
+		"1": "moreminecarts:block/rays_maglev_powered_rail_off_raised_ne",
+		"particle": "moreminecarts:block/rays_maglev_powered_rail_off_raised_ne"
 	},
 	"elements": [
 		{

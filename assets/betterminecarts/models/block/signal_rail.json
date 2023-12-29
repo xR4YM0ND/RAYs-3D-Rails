@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench, by xR4YM0ND",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "betterminecarts:block/signal_rail",
-		"particle": "betterminecarts:block/signal_rail"
+		"0": "betterminecarts:block/rays_signal_rail",
+		"particle": "betterminecarts:block/rays_signal_rail"
 	},
 	"elements": [
 		{
@@ -196,6 +196,7 @@
 			"translation": [3, 0.5, -6]
 		},
 		"ground": {
+			"translation": [0, 2.5, 0],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"gui": {

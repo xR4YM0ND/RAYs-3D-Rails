@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench, by xR4YM0ND",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/detector_rail",
-		"particle": "block/detector_rail"
+		"0": "block/rays_detector_rail",
+		"particle": "block/rays_detector_rail"
 	},
 	"elements": [
 		{
@@ -124,6 +124,7 @@
 			"translation": [3, 0.5, -6]
 		},
 		"ground": {
+			"translation": [0, 2.5, 0],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"gui": {

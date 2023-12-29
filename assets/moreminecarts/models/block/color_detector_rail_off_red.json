@@ -1,8 +1,8 @@
 {
 	"parent": "minecraft:block/detector_rail",
 	"textures": {
-		"0": "moreminecarts:block/colored_detector_red",
-		"particle": "moreminecarts:block/colored_detector_red"
+		"0": "moreminecarts:block/rays_colored_detector_red",
+		"particle": "moreminecarts:block/rays_colored_detector_red"
 	},
     "gui_light": "front",
 	"display": {

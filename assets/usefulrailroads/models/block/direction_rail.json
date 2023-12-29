@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench, by xR4YM0ND",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "usefulrailroads:block/direction_rail",
-		"particle": "usefulrailroads:block/direction_rail"
+		"0": "usefulrailroads:block/rays_direction_rail",
+		"particle": "usefulrailroads:block/rays_direction_rail"
 	},
 	"elements": [
 		{
@@ -355,6 +355,7 @@
 			"translation": [3, 0.5, -6]
 		},
 		"ground": {
+			"translation": [0, 2.5, 0],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"gui": {

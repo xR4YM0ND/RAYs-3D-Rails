@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "moreminecarts:block/bioluminescent_rail_corner",
-		"particle": "moreminecarts:block/bioluminescent_rail_corner"
+		"1": "moreminecarts:block/rays_bioluminescent_rail_corner",
+		"particle": "moreminecarts:block/rays_bioluminescent_rail_corner"
 	},
 	"elements": [
 		{

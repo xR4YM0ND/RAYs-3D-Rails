@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "moreminecarts:block/rail_turn_off_left",
-		"particle": "moreminecarts:block/rail_turn_off_left"
+		"0": "moreminecarts:block/rays_rail_turn_off_left",
+		"particle": "moreminecarts:block/rays_rail_turn_off_left"
 	},
 	"elements": [
 		{
@@ -189,6 +189,12 @@
 			}
 		}
 	],
+	"display": {
+		"ground": {
+			"translation": [0, 2.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	},
 	"groups": [
 		{
 			"name": "rail",

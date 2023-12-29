@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "moreminecarts:block/locking_rail_inverted_on",
-		"particle": "moreminecarts:block/locking_rail_inverted_on"
+		"1": "moreminecarts:block/rays_locking_rail_inverted_on",
+		"particle": "moreminecarts:block/rays_locking_rail_inverted_on"
 	},
 	"elements": [
 		{
@@ -271,6 +271,12 @@
 			}
 		}
 	],
+	"display": {
+		"ground": {
+			"translation": [0, 2.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	},
 	"groups": [
 		{
 			"name": "rail",

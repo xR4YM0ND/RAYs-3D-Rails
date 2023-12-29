@@ -3,8 +3,8 @@
 	"render_type": "cutout",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "usefulrailroads:block/buffer_stop",
-		"particle": "usefulrailroads:block/buffer_stop"
+		"0": "usefulrailroads:block/rays_buffer_stop",
+		"particle": "usefulrailroads:block/rays_buffer_stop"
 	},
 	"elements": [
 		{
@@ -364,6 +364,7 @@
 			"translation": [3, 0.5, -6]
 		},
 		"ground": {
+			"translation": [0, 2.5, 0],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"gui": {

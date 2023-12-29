@@ -1,5 +1,15 @@
 # RAY's 3D Rails Changelog
 
+## 1.5
+
+### Added:
+- Alex's Caves Support
+
+### Fixed:
+- Renamed textures for better compat with Create and maybe more (thx to @TBlazeWarriorT)
+- Rails float into the ground (thx to @vaillantoine)
+- Some missing particle issues & size issues
+
 ## 1.4
 
 ### Added:

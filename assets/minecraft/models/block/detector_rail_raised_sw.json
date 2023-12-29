@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench, by xR4YM0ND",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/detector_rail_raised_sw",
-		"particle": "block/detector_rail_raised_sw"
+		"0": "block/rays_detector_rail_raised_sw",
+		"particle": "block/rays_detector_rail_raised_sw"
 	},
 	"elements": [
 		{

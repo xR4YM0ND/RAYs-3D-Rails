@@ -3,8 +3,8 @@
 	"render_type": "translucent",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "moreminecarts:block/wooden_hologram_rail",
-		"particle": "moreminecarts:block/wooden_hologram_rail"
+		"0": "moreminecarts:block/rays_wooden_hologram_rail",
+		"particle": "moreminecarts:block/rays_wooden_hologram_rail"
 	},
 	"elements": [
 		{
