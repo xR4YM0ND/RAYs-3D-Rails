@@ -1,5 +1,10 @@
 # RAY's 3D Rails Changelog
 
+## 1.6
+
+### Added:
+- Little Logistics Support
+
 ## 1.5
 
 ### Added:
