@@ -1,5 +1,10 @@
 # RAY's 3D Rails Changelog
 
+## 1.7.1
+
+### Fixed:
+- Create waterlogged controller rail
+
 ## 1.7
 
 ### Changed:
