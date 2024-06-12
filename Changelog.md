@@ -1,5 +1,13 @@
 # RAY's 3D Rails Changelog
 
+## 1.7
+
+### Changed:
+- pack.mcmeta
+
+### Added:
+- Create Support
+
 ## 1.6
 
 ### Added:

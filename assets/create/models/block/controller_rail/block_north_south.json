@@ -1,5 +1,6 @@
 {
 	"credit": "Made with Blockbench, by xR4YM0ND",
+	"ambientocclusion": false,
 	"textures": {
 		"tint": "create:block/rays_controller_rail_tint",
 		"2": "create:block/rays_controller_rail_base",
