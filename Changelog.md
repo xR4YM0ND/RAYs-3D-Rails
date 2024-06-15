@@ -1,6 +1,9 @@
 # RAY's 3D Rails Changelog
 
-## 1.7.1
+## 1.8
+
+### Added:
+- Spelunkery Support
 
 ### Fixed:
 - Create waterlogged controller rail
