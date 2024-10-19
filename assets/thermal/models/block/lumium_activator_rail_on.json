@@ -1,7 +1,0 @@
-{
-	"parent": "thermal:block/lumium_activator_rail",
-	"textures": {
-		"0": "thermal:block/rays_lumium_activator_rail_on",
-		"particle": "thermal:block/rays_lumium_activator_rail_on"
-	}
-}

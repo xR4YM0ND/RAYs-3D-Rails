@@ -1,7 +1,0 @@
-{
-    "parent": "moreminecarts:block/maglev_powered_rail_off_raised_sw",
-    "textures": {
-        "1": "moreminecarts:block/rays_maglev_powered_rail_on_raised_sw",
-        "particle": "moreminecarts:block/rays_maglev_powered_rail_on_raised_sw"
-    }
-}

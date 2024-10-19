@@ -1,7 +1,0 @@
-{
-	"parent": "betterminecarts:block/signal_rail_raised_ne",
-	"textures": {
-		"0": "betterminecarts:block/rays_signal_rail_on_raised_ne",
-		"particle": "betterminecarts:block/rays_signal_rail_on_raised_ne"
-	}
-}

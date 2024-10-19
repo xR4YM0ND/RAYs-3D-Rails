@@ -1,7 +1,0 @@
-{
-	"parent": "moreminecarts:block/left_rail_off",
-	"textures": {
-		"1": "moreminecarts:block/rays_left_rail_on",
-		"particle": "moreminecarts:block/rays_left_rail_on"
-	}
-}

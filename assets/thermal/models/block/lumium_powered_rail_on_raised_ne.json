@@ -1,7 +1,0 @@
-{
-	"parent": "thermal:block/lumium_powered_rail_raised_ne",
-	"textures": {
-		"0": "thermal:block/rays_lumium_powered_rail_on_raised_ne",
-		"particle": "thermal:block/rays_lumium_powered_rail_on_raised_ne"
-	}
-}

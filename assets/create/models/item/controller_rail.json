@@ -1,6 +1,0 @@
-{
-    "parent": "create:block/controller_rail/block_north_south",
-    "textures": {
-		"tint": "create:block/rays_controller_rail_tint_redstone_off"
-	}
-}

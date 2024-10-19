@@ -1,7 +1,0 @@
-{
-	"parent": "littlelogistics:block/car_dock_rail",
-	"textures": {
-		"1": "littlelogistics:block/rays_car_dock_rail_extract",
-		"particle": "littlelogistics:block/rays_car_dock_rail_extract"
-	}
-}
