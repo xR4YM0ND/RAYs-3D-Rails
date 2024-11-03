@@ -1,9 +1,17 @@
 # RAY's 3D Rails Changelog
 
-## 1.9
+## 2.0
+
+### Changed:
+- Up to 4 different variants for vanilla rails `// modded rails will be reworked in future updates`
+- New base wood texture `// also redid rail texture slightly`
+- New redstone rails `// instead of flat pixels`
+- New folder system `// now material based instead of mod based`
+- Every object is now their own texture `// improves file size & performance / also improves particles`
+- New `pack.png` logo
 
 ### Added:
-- Botania
+- Botania (old textures) `// forgot to release v1.9`
 
 ## 1.8
 
