@@ -3,241 +3,193 @@
     "powered=false,shape=ascending_east": [
       {
         "model": "rays_3d_rails:block/iron/rail_detector_raised_ne_1_off",
-        "y": 90,
-        "weight": 1
+        "y": 90
       },
       {
         "model": "rays_3d_rails:block/iron/rail_detector_raised_ne_2_off",
-        "y": 90,
-        "weight": 1
+        "y": 90
       },
       {
         "model": "rays_3d_rails:block/iron/rail_detector_raised_ne_3_off",
-        "y": 90,
-        "weight": 1
+        "y": 90
       },
       {
         "model": "rays_3d_rails:block/iron/rail_detector_raised_ne_4_off",
-        "y": 90,
-        "weight": 1
+        "y": 90
       }
     ],
     "powered=false,shape=ascending_north": [
       {
-        "model": "rays_3d_rails:block/iron/rail_detector_raised_ne_1_off",
-        "weight": 1
+        "model": "rays_3d_rails:block/iron/rail_detector_raised_ne_1_off"
       },
       {
-        "model": "rays_3d_rails:block/iron/rail_detector_raised_ne_2_off",
-        "weight": 1
+        "model": "rays_3d_rails:block/iron/rail_detector_raised_ne_2_off"
       },
       {
-        "model": "rays_3d_rails:block/iron/rail_detector_raised_ne_3_off",
-        "weight": 1
+        "model": "rays_3d_rails:block/iron/rail_detector_raised_ne_3_off"
       },
       {
-        "model": "rays_3d_rails:block/iron/rail_detector_raised_ne_4_off",
-        "weight": 1
+        "model": "rays_3d_rails:block/iron/rail_detector_raised_ne_4_off"
       }
     ],
     "powered=false,shape=ascending_south": [
       {
-        "model": "rays_3d_rails:block/iron/rail_detector_raised_sw_1_off",
-        "weight": 1
+        "model": "rays_3d_rails:block/iron/rail_detector_raised_sw_1_off"
       },
       {
-        "model": "rays_3d_rails:block/iron/rail_detector_raised_sw_2_off",
-        "weight": 1
+        "model": "rays_3d_rails:block/iron/rail_detector_raised_sw_2_off"
       },
       {
-        "model": "rays_3d_rails:block/iron/rail_detector_raised_sw_3_off",
-        "weight": 1
+        "model": "rays_3d_rails:block/iron/rail_detector_raised_sw_3_off"
       },
       {
-        "model": "rays_3d_rails:block/iron/rail_detector_raised_sw_4_off",
-        "weight": 1
+        "model": "rays_3d_rails:block/iron/rail_detector_raised_sw_4_off"
       }
     ],
     "powered=false,shape=ascending_west": [
       {
         "model": "rays_3d_rails:block/iron/rail_detector_raised_sw_1_off",
-        "y": 90,
-        "weight": 1
+        "y": 90
       },
       {
         "model": "rays_3d_rails:block/iron/rail_detector_raised_sw_2_off",
-        "y": 90,
-        "weight": 1
+        "y": 90
       },
       {
         "model": "rays_3d_rails:block/iron/rail_detector_raised_sw_3_off",
-        "y": 90,
-        "weight": 1
+        "y": 90
       },
       {
         "model": "rays_3d_rails:block/iron/rail_detector_raised_sw_4_off",
-        "y": 90,
-        "weight": 1
+        "y": 90
       }
     ],
     "powered=false,shape=east_west": [
       {
         "model": "rays_3d_rails:block/iron/rail_detector_1_off",
-        "y": 90,
-        "weight": 1
+        "y": 90
       },
       {
         "model": "rays_3d_rails:block/iron/rail_detector_2_off",
-        "y": 90,
-        "weight": 1
+        "y": 90
       },
       {
         "model": "rays_3d_rails:block/iron/rail_detector_3_off",
-        "y": 90,
-        "weight": 1
+        "y": 90
       },
       {
         "model": "rays_3d_rails:block/iron/rail_detector_4_off",
-        "y": 90,
-        "weight": 1
+        "y": 90
       }
     ],
     "powered=false,shape=north_south": [
       {
-        "model": "rays_3d_rails:block/iron/rail_detector_1_off",
-        "weight": 1
+        "model": "rays_3d_rails:block/iron/rail_detector_1_off"
       },
       {
-        "model": "rays_3d_rails:block/iron/rail_detector_2_off",
-        "weight": 1
+        "model": "rays_3d_rails:block/iron/rail_detector_2_off"
       },
       {
-        "model": "rays_3d_rails:block/iron/rail_detector_3_off",
-        "weight": 1
+        "model": "rays_3d_rails:block/iron/rail_detector_3_off"
       },
       {
-        "model": "rays_3d_rails:block/iron/rail_detector_4_off",
-        "weight": 1
+        "model": "rays_3d_rails:block/iron/rail_detector_4_off"
       }
     ],
     "powered=true,shape=ascending_east": [
       {
         "model": "rays_3d_rails:block/iron/rail_detector_raised_ne_1_on",
-        "y": 90,
-        "weight": 1
+        "y": 90
       },
       {
         "model": "rays_3d_rails:block/iron/rail_detector_raised_ne_2_on",
-        "y": 90,
-        "weight": 1
+        "y": 90
       },
       {
         "model": "rays_3d_rails:block/iron/rail_detector_raised_ne_3_on",
-        "y": 90,
-        "weight": 1
+        "y": 90
       },
       {
         "model": "rays_3d_rails:block/iron/rail_detector_raised_ne_4_on",
-        "y": 90,
-        "weight": 1
+        "y": 90
       }
     ],
     "powered=true,shape=ascending_north": [
       {
-        "model": "rays_3d_rails:block/iron/rail_detector_raised_ne_1_on",
-        "weight": 1
+        "model": "rays_3d_rails:block/iron/rail_detector_raised_ne_1_on"
       },
       {
-        "model": "rays_3d_rails:block/iron/rail_detector_raised_ne_2_on",
-        "weight": 1
+        "model": "rays_3d_rails:block/iron/rail_detector_raised_ne_2_on"
       },
       {
-        "model": "rays_3d_rails:block/iron/rail_detector_raised_ne_3_on",
-        "weight": 1
+        "model": "rays_3d_rails:block/iron/rail_detector_raised_ne_3_on"
       },
       {
-        "model": "rays_3d_rails:block/iron/rail_detector_raised_ne_4_on",
-        "weight": 1
+        "model": "rays_3d_rails:block/iron/rail_detector_raised_ne_4_on"
       }
     ],
     "powered=true,shape=ascending_south": [
       {
-        "model": "rays_3d_rails:block/iron/rail_detector_raised_sw_1_on",
-        "weight": 1
+        "model": "rays_3d_rails:block/iron/rail_detector_raised_sw_1_on"
       },
       {
-        "model": "rays_3d_rails:block/iron/rail_detector_raised_sw_2_on",
-        "weight": 1
+        "model": "rays_3d_rails:block/iron/rail_detector_raised_sw_2_on"
       },
       {
-        "model": "rays_3d_rails:block/iron/rail_detector_raised_sw_3_on",
-        "weight": 1
+        "model": "rays_3d_rails:block/iron/rail_detector_raised_sw_3_on"
       },
       {
-        "model": "rays_3d_rails:block/iron/rail_detector_raised_sw_4_on",
-        "weight": 1
+        "model": "rays_3d_rails:block/iron/rail_detector_raised_sw_4_on"
       }
     ],
     "powered=true,shape=ascending_west": [
       {
         "model": "rays_3d_rails:block/iron/rail_detector_raised_sw_1_on",
-        "y": 90,
-        "weight": 1
+        "y": 90
       },
       {
         "model": "rays_3d_rails:block/iron/rail_detector_raised_sw_2_on",
-        "y": 90,
-        "weight": 1
+        "y": 90
       },
       {
         "model": "rays_3d_rails:block/iron/rail_detector_raised_sw_3_on",
-        "y": 90,
-        "weight": 1
+        "y": 90
       },
       {
         "model": "rays_3d_rails:block/iron/rail_detector_raised_sw_4_on",
-        "y": 90,
-        "weight": 1
+        "y": 90
       }
     ],
     "powered=true,shape=east_west": [
       {
         "model": "rays_3d_rails:block/iron/rail_detector_1_on",
-        "y": 90,
-        "weight": 1
+        "y": 90
       },
       {
         "model": "rays_3d_rails:block/iron/rail_detector_2_on",
-        "y": 90,
-        "weight": 1
+        "y": 90
       },
       {
         "model": "rays_3d_rails:block/iron/rail_detector_3_on",
-        "y": 90,
-        "weight": 1
+        "y": 90
       },
       {
         "model": "rays_3d_rails:block/iron/rail_detector_4_on",
-        "y": 90,
-        "weight": 1
+        "y": 90
       }
     ],
     "powered=true,shape=north_south": [
       {
-        "model": "rays_3d_rails:block/iron/rail_detector_1_on",
-        "weight": 1
+        "model": "rays_3d_rails:block/iron/rail_detector_1_on"
       },
       {
-        "model": "rays_3d_rails:block/iron/rail_detector_2_on",
-        "weight": 1
+        "model": "rays_3d_rails:block/iron/rail_detector_2_on"
       },
       {
-        "model": "rays_3d_rails:block/iron/rail_detector_3_on",
-        "weight": 1
+        "model": "rays_3d_rails:block/iron/rail_detector_3_on"
       },
       {
-        "model": "rays_3d_rails:block/iron/rail_detector_4_on",
-        "weight": 1
+        "model": "rays_3d_rails:block/iron/rail_detector_4_on"
       }
     ]
   }
