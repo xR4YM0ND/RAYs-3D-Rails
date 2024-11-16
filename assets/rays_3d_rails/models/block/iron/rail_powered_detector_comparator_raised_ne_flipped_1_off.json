@@ -1,7 +1,6 @@
 {
 	"credit": "xR4YM0ND, Notch",
 	"textures": {
-		"pressure": "rays_3d_rails:block/stone/pressure_plate",
 		"particle": "rays_3d_rails:block/oak/base_1",
 		"base_1": "rays_3d_rails:block/oak/base_1",
 		"base_2": "rays_3d_rails:block/oak/base_2",
@@ -438,8 +437,8 @@
 		},
 		{
 			"name": "redstone_comp",
-			"from": [6, 2.44004, 14.0249],
-			"to": [6.5, 2.94004, 14.5249],
+			"from": [6, 18.44004, 14.0249],
+			"to": [6.5, 18.94004, 14.5249],
 			"rotation": {"angle": -45, "axis": "x", "origin": [12, 2.74004, 13.4572]},
 			"faces": {
 				"north": {"uv": [0, 1, 1, 0], "texture": "#redstone_1"},
@@ -452,8 +451,8 @@
 		},
 		{
 			"name": "redstone_comp",
-			"from": [9.5, 2.44004, 14.0249],
-			"to": [10, 2.94004, 14.5249],
+			"from": [9.5, 18.44004, 14.0249],
+			"to": [10, 18.94004, 14.5249],
 			"rotation": {"angle": -45, "axis": "x", "origin": [15.5, 2.74004, 13.4572]},
 			"faces": {
 				"north": {"uv": [0, 1, 1, 0], "texture": "#redstone_1"},
@@ -466,8 +465,8 @@
 		},
 		{
 			"name": "redstone_inverter",
-			"from": [7.75, 18.44004, 14.0249],
-			"to": [8.25, 18.94004, 14.5249],
+			"from": [7.75, 2.44004, 14.0249],
+			"to": [8.25, 2.94004, 14.5249],
 			"rotation": {"angle": -45, "axis": "x", "origin": [13.75, 2.74004, 13.4572]},
 			"faces": {
 				"north": {"uv": [0, 1, 1, 0], "texture": "#redstone_inverter"},

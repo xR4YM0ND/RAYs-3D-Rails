@@ -1,0 +1,788 @@
+{
+    "variants": {
+        "powered=false,shape=ascending_east,inverted=false,weight_inverted=false": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_1_off",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_2_off",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_3_off",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_4_off",
+                "y": 90
+            }
+        ],
+        "powered=false,shape=ascending_north,inverted=false,weight_inverted=false": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_1_off"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_2_off"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_3_off"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_4_off"
+            }
+        ],
+        "powered=false,shape=ascending_south,inverted=false,weight_inverted=false": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_1_off"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_2_off"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_3_off"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_4_off"
+            }
+        ],
+        "powered=false,shape=ascending_west,inverted=false,weight_inverted=false": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_1_off",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_2_off",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_3_off",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_4_off",
+                "y": 90
+            }
+        ],
+        "powered=false,shape=east_west,inverted=false,weight_inverted=false": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_1_off",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_2_off",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_3_off",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_4_off",
+                "y": 90
+            }
+        ],
+        "powered=false,shape=north_south,inverted=false,weight_inverted=false": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_1_off"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_2_off"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_3_off"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_4_off"
+            }
+        ],
+        "powered=false,shape=ascending_east,inverted=true,weight_inverted=false": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_flipped_1_off",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_flipped_2_off",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_flipped_3_off",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_flipped_4_off",
+                "y": 90
+            }
+        ],
+        "powered=false,shape=ascending_north,inverted=true,weight_inverted=false": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_flipped_1_off"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_flipped_2_off"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_flipped_3_off"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_flipped_4_off"
+            }
+        ],
+        "powered=false,shape=ascending_south,inverted=true,weight_inverted=false": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_flipped_1_off"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_flipped_2_off"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_flipped_3_off"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_flipped_4_off"
+            }
+        ],
+        "powered=false,shape=ascending_west,inverted=true,weight_inverted=false": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_flipped_1_off",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_flipped_2_off",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_flipped_3_off",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_flipped_4_off",
+                "y": 90
+            }
+        ],
+        "powered=false,shape=east_west,inverted=true,weight_inverted=false": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_1_off",
+                "y": -90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_2_off",
+                "y": -90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_3_off",
+                "y": -90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_4_off",
+                "y": -90
+            }
+        ],
+        "powered=false,shape=north_south,inverted=true,weight_inverted=false": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_1_off",
+                "y": 180
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_2_off",
+                "y": 180
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_3_off",
+                "y": 180
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_4_off",
+                "y": 180
+            }
+        ],
+        "powered=true,shape=ascending_east,inverted=false,weight_inverted=false": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_1_on",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_2_on",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_3_on",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_4_on",
+                "y": 90
+            }
+        ],
+        "powered=true,shape=ascending_north,inverted=false,weight_inverted=false": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_1_on"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_2_on"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_3_on"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_4_on"
+            }
+        ],
+        "powered=true,shape=ascending_south,inverted=false,weight_inverted=false": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_1_on"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_2_on"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_3_on"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_4_on"
+            }
+        ],
+        "powered=true,shape=ascending_west,inverted=false,weight_inverted=false": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_1_on",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_2_on",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_3_on",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_4_on",
+                "y": 90
+            }
+        ],
+        "powered=true,shape=east_west,inverted=false,weight_inverted=false": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_1_on",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_2_on",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_3_on",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_4_on",
+                "y": 90
+            }
+        ],
+        "powered=true,shape=north_south,inverted=false,weight_inverted=false": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_1_on"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_2_on"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_3_on"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_4_on"
+            }
+        ],
+        "powered=true,shape=ascending_east,inverted=true,weight_inverted=false": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_flipped_1_on",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_flipped_2_on",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_flipped_3_on",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_flipped_4_on",
+                "y": 90
+            }
+        ],
+        "powered=true,shape=ascending_north,inverted=true,weight_inverted=false": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_flipped_1_on"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_flipped_2_on"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_flipped_3_on"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_flipped_4_on"
+            }
+        ],
+        "powered=true,shape=ascending_south,inverted=true,weight_inverted=false": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_flipped_1_on"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_flipped_2_on"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_flipped_3_on"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_flipped_4_on"
+            }
+        ],
+        "powered=true,shape=ascending_west,inverted=true,weight_inverted=false": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_flipped_1_on",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_flipped_2_on",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_flipped_3_on",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_flipped_4_on",
+                "y": 90
+            }
+        ],
+        "powered=true,shape=east_west,inverted=true,weight_inverted=false": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_1_on",
+                "y": -90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_2_on",
+                "y": -90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_3_on",
+                "y": -90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_4_on",
+                "y": -90
+            }
+        ],
+        "powered=true,shape=north_south,inverted=true,weight_inverted=false": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_1_on",
+                "y": 180
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_2_on",
+                "y": 180
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_3_on",
+                "y": 180
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_4_on",
+                "y": 180
+            }
+        ],
+        "powered=false,shape=ascending_east,inverted=false,weight_inverted=true": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_inverter_1_off",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_inverter_2_off",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_inverter_3_off",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_inverter_4_off",
+                "y": 90
+            }
+        ],
+        "powered=false,shape=ascending_north,inverted=false,weight_inverted=true": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_inverter_1_off"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_inverter_2_off"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_inverter_3_off"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_inverter_4_off"
+            }
+        ],
+        "powered=false,shape=ascending_south,inverted=false,weight_inverted=true": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_inverter_1_off"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_inverter_2_off"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_inverter_3_off"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_inverter_4_off"
+            }
+        ],
+        "powered=false,shape=ascending_west,inverted=false,weight_inverted=true": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_inverter_1_off",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_inverter_2_off",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_inverter_3_off",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_inverter_4_off",
+                "y": 90
+            }
+        ],
+        "powered=false,shape=east_west,inverted=false,weight_inverted=true": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_inverter_1_off",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_inverter_2_off",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_inverter_3_off",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_inverter_4_off",
+                "y": 90
+            }
+        ],
+        "powered=false,shape=north_south,inverted=false,weight_inverted=true": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_inverter_1_off"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_inverter_2_off"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_inverter_3_off"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_inverter_4_off"
+            }
+        ],
+        "powered=false,shape=ascending_east,inverted=true,weight_inverted=true": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_flipped_inverter_1_off",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_flipped_inverter_2_off",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_flipped_inverter_3_off",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_flipped_inverter_4_off",
+                "y": 90
+            }
+        ],
+        "powered=false,shape=ascending_north,inverted=true,weight_inverted=true": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_flipped_inverter_1_off"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_flipped_inverter_2_off"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_flipped_inverter_3_off"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_flipped_inverter_4_off"
+            }
+        ],
+        "powered=false,shape=ascending_south,inverted=true,weight_inverted=true": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_flipped_inverter_1_off"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_flipped_inverter_2_off"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_flipped_inverter_3_off"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_flipped_inverter_4_off"
+            }
+        ],
+        "powered=false,shape=ascending_west,inverted=true,weight_inverted=true": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_flipped_inverter_1_off",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_flipped_inverter_2_off",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_flipped_inverter_3_off",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_flipped_inverter_4_off",
+                "y": 90
+            }
+        ],
+        "powered=false,shape=east_west,inverted=true,weight_inverted=true": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_inverter_1_off",
+                "y": -90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_inverter_2_off",
+                "y": -90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_inverter_3_off",
+                "y": -90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_inverter_4_off",
+                "y": -90
+            }
+        ],
+        "powered=false,shape=north_south,inverted=true,weight_inverted=true": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_inverter_1_off",
+                "y": 180
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_inverter_2_off",
+                "y": 180
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_inverter_3_off",
+                "y": 180
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_inverter_4_off",
+                "y": 180
+            }
+        ],
+        "powered=true,shape=ascending_east,inverted=false,weight_inverted=true": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_inverter_1_on",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_inverter_2_on",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_inverter_3_on",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_inverter_4_on",
+                "y": 90
+            }
+        ],
+        "powered=true,shape=ascending_north,inverted=false,weight_inverted=true": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_inverter_1_on"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_inverter_2_on"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_inverter_3_on"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_inverter_4_on"
+            }
+        ],
+        "powered=true,shape=ascending_south,inverted=false,weight_inverted=true": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_inverter_1_on"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_inverter_2_on"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_inverter_3_on"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_inverter_4_on"
+            }
+        ],
+        "powered=true,shape=ascending_west,inverted=false,weight_inverted=true": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_inverter_1_on",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_inverter_2_on",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_inverter_3_on",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_inverter_4_on",
+                "y": 90
+            }
+        ],
+        "powered=true,shape=east_west,inverted=false,weight_inverted=true": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_inverter_1_on",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_inverter_2_on",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_inverter_3_on",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_inverter_4_on",
+                "y": 90
+            }
+        ],
+        "powered=true,shape=north_south,inverted=false,weight_inverted=true": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_inverter_1_on"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_inverter_2_on"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_inverter_3_on"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_inverter_4_on"
+            }
+        ],
+        "powered=true,shape=ascending_east,inverted=true,weight_inverted=true": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_flipped_inverter_1_on",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_flipped_inverter_2_on",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_flipped_inverter_3_on",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_flipped_inverter_4_on",
+                "y": 90
+            }
+        ],
+        "powered=true,shape=ascending_north,inverted=true,weight_inverted=true": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_flipped_inverter_1_on"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_flipped_inverter_2_on"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_flipped_inverter_3_on"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_flipped_inverter_4_on"
+            }
+        ],
+        "powered=true,shape=ascending_south,inverted=true,weight_inverted=true": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_flipped_inverter_1_on"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_flipped_inverter_2_on"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_flipped_inverter_3_on"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_flipped_inverter_4_on"
+            }
+        ],
+        "powered=true,shape=ascending_west,inverted=true,weight_inverted=true": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_flipped_inverter_1_on",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_flipped_inverter_2_on",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_flipped_inverter_3_on",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_sw_flipped_inverter_4_on",
+                "y": 90
+            }
+        ],
+        "powered=true,shape=east_west,inverted=true,weight_inverted=true": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_inverter_1_on",
+                "y": -90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_inverter_2_on",
+                "y": -90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_inverter_3_on",
+                "y": -90
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_inverter_4_on",
+                "y": -90
+            }
+        ],
+        "powered=true,shape=north_south,inverted=true,weight_inverted=true": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_inverter_1_on",
+                "y": 180
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_inverter_2_on",
+                "y": 180
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_inverter_3_on",
+                "y": 180
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_powered_detector_comparator_inverter_4_on",
+                "y": 180
+            }
+        ]
+    }
+}

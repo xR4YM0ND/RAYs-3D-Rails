@@ -1,0 +1,8 @@
+{
+	"parent": "rays_3d_rails:block/iron/rail_powered_detector_comparator_raised_ne_1_off",
+	"textures": {
+		"redstone_1": "rays_3d_rails:block/redstone/rail_raised_1_on",
+		"redstone_2": "rays_3d_rails:block/redstone/rail_raised_2_on",
+		"redstone_inverter": "rays_3d_rails:block/redstone/rail_1_on"
+	}
+}

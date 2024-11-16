@@ -12,7 +12,8 @@
 		"redstone_1": "rays_3d_rails:block/redstone/rail_1_off",
 		"redstone_2": "rays_3d_rails:block/redstone/rail_2_off",
 		"gold_1": "rays_3d_rails:block/gold/rail_1",
-		"gold_2": "rays_3d_rails:block/gold/rail_2"
+		"gold_2": "rays_3d_rails:block/gold/rail_2",
+		"redstone_inverter": "rays_3d_rails:block/redstone/rail_1_off"
 	},
 	"elements": [
 		{
@@ -184,17 +185,17 @@
 			}
 		},
 		{
-			"name": "redstone_comp",
+			"name": "redstone_inverter",
 			"from": [7.75, 1, 13.75],
 			"to": [8.25, 1.5, 14.25],
 			"rotation": {"angle": 0, "axis": "y", "origin": [7.75, 1, 13.75]},
 			"faces": {
-				"north": {"uv": [0, 0, 0.5, 0.5], "texture": "#redstone_1"},
-				"east": {"uv": [0, 0, 0.5, 0.5], "texture": "#redstone_1"},
-				"south": {"uv": [0, 0, 0.5, 0.5], "texture": "#redstone_1"},
-				"west": {"uv": [0, 0, 0.5, 0.5], "texture": "#redstone_1"},
-				"up": {"uv": [0, 0, 0.5, 0.5], "texture": "#redstone_1"},
-				"down": {"uv": [0, 0, 0.5, 0.5], "texture": "#redstone_1"}
+				"north": {"uv": [0, 0, 0.5, 0.5], "texture": "#redstone_inverter"},
+				"east": {"uv": [0, 0, 0.5, 0.5], "texture": "#redstone_inverter"},
+				"south": {"uv": [0, 0, 0.5, 0.5], "texture": "#redstone_inverter"},
+				"west": {"uv": [0, 0, 0.5, 0.5], "texture": "#redstone_inverter"},
+				"up": {"uv": [0, 0, 0.5, 0.5], "texture": "#redstone_inverter"},
+				"down": {"uv": [0, 0, 0.5, 0.5], "texture": "#redstone_inverter"}
 			}
 		},
 		{
