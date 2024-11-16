@@ -1,0 +1,75 @@
+{
+    "variants": {
+      "shape=ascending_east": [
+        {
+            "model": "rays_3d_rails:block/iron/rail_sloped_raised_ne_1",
+            "y": 90
+        },
+        {
+            "model": "rays_3d_rails:block/iron/rail_sloped_raised_ne_2",
+            "y": 90
+        },
+        {
+            "model": "rays_3d_rails:block/iron/rail_sloped_raised_ne_3",
+            "y": 90
+        },
+        {
+            "model": "rays_3d_rails:block/iron/rail_sloped_raised_ne_4",
+            "y": 90
+        }
+    ],
+      "shape=ascending_north": [
+        {
+            "model": "rays_3d_rails:block/iron/rail_sloped_raised_ne_1"
+        },
+        {
+            "model": "rays_3d_rails:block/iron/rail_sloped_raised_ne_2"
+        },
+        {
+            "model": "rays_3d_rails:block/iron/rail_sloped_raised_ne_3"
+        },
+        {
+            "model": "rays_3d_rails:block/iron/rail_sloped_raised_ne_4"
+        }
+    ],
+      "shape=ascending_south": [
+        {
+            "model": "rays_3d_rails:block/iron/rail_sloped_raised_sw_1"
+        },
+        {
+            "model": "rays_3d_rails:block/iron/rail_sloped_raised_sw_2"
+        },
+        {
+            "model": "rays_3d_rails:block/iron/rail_sloped_raised_sw_3"
+        },
+        {
+            "model": "rays_3d_rails:block/iron/rail_sloped_raised_sw_4"
+        }
+    ],
+      "shape=ascending_west": [
+        {
+            "model": "rays_3d_rails:block/iron/rail_sloped_raised_sw_1",
+            "y": 90
+        },
+        {
+            "model": "rays_3d_rails:block/iron/rail_sloped_raised_sw_2",
+            "y": 90
+        },
+        {
+            "model": "rays_3d_rails:block/iron/rail_sloped_raised_sw_3",
+            "y": 90
+        },
+        {
+            "model": "rays_3d_rails:block/iron/rail_sloped_raised_sw_4",
+            "y": 90
+        }
+    ],
+      "shape=east_west": {
+        "model": "modernminecarts:block/sloped_rail",
+        "y": 90
+      },
+      "shape=north_south": {
+        "model": "modernminecarts:block/sloped_rail"
+      }
+    }
+  }

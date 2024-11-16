@@ -1,5 +1,13 @@
 # RAY's 3D Rails Changelog
 
+## 2.1
+
+### Added:
+- Modern Minecarts `1.1.0` Support `// up to 4 variants`
+
+### Fixed:
+- Made models parent `// lowers file size`
+
 ## 2.0
 
 ### Changed:
