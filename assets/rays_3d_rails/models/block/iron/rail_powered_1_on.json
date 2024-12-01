@@ -1,7 +1,7 @@
 {
 	"parent": "rays_3d_rails:block/iron/rail_powered_1_off",
 	"textures": {
-		"redstone_1": "rays_3d_rails:block/redstone/rail_1_off",
-		"redstone_2": "rays_3d_rails:block/redstone/rail_2_off"
+		"redstone_1": "rays_3d_rails:block/redstone/rail_1_on",
+		"redstone_2": "rays_3d_rails:block/redstone/rail_2_on"
 	}
 }

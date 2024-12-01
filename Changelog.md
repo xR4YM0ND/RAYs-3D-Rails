@@ -1,5 +1,15 @@
 # RAY's 3D Rails Changelog
 
+## 2.2
+
+### Fixed:
+- Wrong vanilla powered rail blockstate
+
+### Added:
+- Oxidized `1.8.4` Support `// up to 4 variants`
+
+---
+
 ## 2.1
 
 ### Added:
@@ -7,6 +17,8 @@
 
 ### Fixed:
 - Made models parent `// lowers file size`
+
+---
 
 ## 2.0
 
@@ -21,6 +33,8 @@
 ### Added:
 - Botania (old textures) `// forgot to release v1.9`
 
+---
+
 ## 1.8
 
 ### Added:
@@ -28,6 +42,8 @@
 
 ### Fixed:
 - Create waterlogged controller rail
+
+---
 
 ## 1.7
 
@@ -37,10 +53,14 @@
 ### Added:
 - Create Support
 
+---
+
 ## 1.6
 
 ### Added:
 - Little Logistics Support
+
+---
 
 ## 1.5
 
@@ -52,10 +72,14 @@
 - Rails float into the ground (thx to @vaillantoine)
 - Some missing particle issues & size issues
 
+---
+
 ## 1.4
 
 ### Added:
 - Useful Railroads Support
+
+---
 
 ## 1.3
 
@@ -69,10 +93,14 @@
 ### Changed:
 - Solid to translucent hologram rails (thx to @Xannosz)
 
+---
+
 ## 1.2
 
 ### Added:
 - Xannosz's Better Minecarts Support
+
+---
 
 ## 1.1
 
@@ -85,7 +113,8 @@
 - Now the actual 3D items appear
 - New pack.mcmeta description
 
-*****
+---
+
 ## 1.0
 
 ### Added:
