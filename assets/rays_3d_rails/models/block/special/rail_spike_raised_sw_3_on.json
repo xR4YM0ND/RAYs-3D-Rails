@@ -1,0 +1,11 @@
+{
+	"parent": "rays_3d_rails:block/special/rail_spike_raised_sw_1_on",
+	"textures": {
+		"base_1": "rays_3d_rails:block/oak/base_2",
+		"base_2": "rays_3d_rails:block/oak/base_4",
+		"base_3": "rays_3d_rails:block/oak/base_1",
+		"base_4": "rays_3d_rails:block/oak/base_3",
+		"rail_1": "rays_3d_rails:block/iron/rail_3",
+		"rail_2": "rays_3d_rails:block/iron/rail_1"
+	}
+}

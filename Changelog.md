@@ -1,5 +1,13 @@
 # RAY's 3D Rails Changelog
 
+## 2.3
+
+### Changed:
+- Readded old redstone textures `// instead of rails`
+
+### Added:
+- Caverns and Chasms `2.0.0` Support `// up to 4 variants`
+
 ## 2.2
 
 ### Fixed:

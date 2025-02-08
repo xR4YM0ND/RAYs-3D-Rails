@@ -1,11 +1,15 @@
+<center>
+  
 ![rays 3d rails title wide](https://cdn.modrinth.com/data/cached_images/c885633094ef88e97e1f378bf659c6d26e68d248.png)
 
 This Resourcepack changes Block & Item Textures for Rails in Minecraft.
 
 ## Supported Mods:
+</center>
 
 - [Alex's Caves](https://modrinth.com/mod/alexs-caves)
 - [Botania](https://modrinth.com/mod/botania)
+- [Caverns & Chasms](https://modrinth.com/mod/caverns-and-chasms)
 - [Create](https://modrinth.com/mod/create)
 - [Create Fabric](https://modrinth.com/mod/create-fabric)
 - [Little Logistics](https://modrinth.com/mod/little-logistics)
@@ -17,6 +21,7 @@ This Resourcepack changes Block & Item Textures for Rails in Minecraft.
 - [Useful Railroads](https://www.curseforge.com/minecraft/mc-mods/useful-railroads)
 - [Vanilla](https://minecraft.wiki/w/Rail)
 - [Xannosz's Better Minecarts](https://www.curseforge.com/minecraft/mc-mods/xannoszs-better-minecarts)
+<center>
 
 If you want support for other mods let me know.  
 
