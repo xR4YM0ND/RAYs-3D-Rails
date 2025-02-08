@@ -1,16 +1,15 @@
 {
 	"credit": "xR4YM0ND, Notch",
 	"textures": {
+		"particle": "rays_3d_rails:block/oak/base_1",
 		"base_1": "rays_3d_rails:block/oak/base_1",
 		"base_2": "rays_3d_rails:block/oak/base_2",
 		"base_3": "rays_3d_rails:block/oak/base_3",
 		"base_4": "rays_3d_rails:block/oak/base_4",
 		"iron_1": "rays_3d_rails:block/iron/rail_raised_1",
 		"iron_2": "rays_3d_rails:block/iron/rail_raised_2",
-		"redstone_1": "rays_3d_rails:block/redstone/rail_raised_1_off",
-		"redstone_2": "rays_3d_rails:block/redstone/rail_raised_2_off",
-		"pressure_plate": "rays_3d_rails:block/stone/pressure_plate",
-		"particle": "rays_3d_rails:block/oak/base_1"
+		"redstone": "rays_3d_rails:block/redstone/detector_off",
+		"pressure_plate": "rays_3d_rails:block/stone/pressure_plate"
 	},
 	"elements": [
 		{
@@ -196,120 +195,22 @@
 			}
 		},
 		{
-			"name": "redstone_rail_main_lower",
-			"from": [4.002, 17.002, 15.62],
-			"to": [4.298, 17.298, 22.628],
-			"rotation": {"angle": 45, "axis": "x", "origin": [4, 17, 0]},
+			"name": "redstone",
+			"from": [5, 6.69004, 14.0249],
+			"to": [11, 14.69004, 14.1249],
+			"rotation": {"angle": -45, "axis": "x", "origin": [8, 2.74004, 13.4572]},
 			"faces": {
-				"north": {"uv": [7, 6, 8, 7], "texture": "#redstone_1"},
-				"east": {"uv": [0, 4, 7, 5], "texture": "#redstone_1"},
-				"south": {"uv": [7, 7, 8, 8], "texture": "#redstone_1"},
-				"west": {"uv": [0, 5, 7, 6], "texture": "#redstone_1"},
-				"up": {"uv": [0, 6, 7, 7], "rotation": 90, "texture": "#redstone_1"},
-				"down": {"uv": [0, 7, 7, 8], "rotation": 90, "texture": "#redstone_1"}
-			}
-		},
-		{
-			"name": "redstone_rail_main_upper",
-			"from": [4.002, 17.002, 0],
-			"to": [4.298, 17.298, 15.628],
-			"rotation": {"angle": 45, "axis": "x", "origin": [4, 17, 0]},
-			"faces": {
-				"north": {"uv": [7, 5, 8, 6], "texture": "#redstone_1"},
-				"east": {"uv": [0, 0, 16, 1], "texture": "#redstone_1"},
-				"south": {"uv": [7, 4, 8, 5], "texture": "#redstone_1"},
-				"west": {"uv": [0, 1, 16, 2], "texture": "#redstone_1"},
-				"up": {"uv": [0, 2, 16, 3], "rotation": 90, "texture": "#redstone_1"},
-				"down": {"uv": [0, 3, 16, 4], "rotation": 90, "texture": "#redstone_1"}
-			}
-		},
-		{
-			"name": "redstone_rail_filler",
-			"from": [4.004, 16.9594, 0.218],
-			"to": [4.296, 17.0834, 0.4316],
-			"rotation": {"angle": 45, "axis": "x", "origin": [4.5, 17.3, 0.425]},
-			"faces": {
-				"north": {"uv": [8, 6, 9, 7], "texture": "#redstone_1"},
-				"east": {"uv": [8, 4, 9, 5], "texture": "#redstone_1"},
-				"south": {"uv": [9, 4, 10, 5], "texture": "#redstone_1"},
-				"west": {"uv": [8, 5, 9, 6], "texture": "#redstone_1"},
-				"up": {"uv": [9, 5, 10, 6], "texture": "#redstone_1"},
-				"down": {"uv": [8, 7, 9, 8], "texture": "#redstone_1"}
-			}
-		},
-		{
-			"name": "redstone_rail_level",
-			"from": [4.006, 17.006, 0],
-			"to": [4.294, 17.294, 0.125],
-			"rotation": {"angle": 0, "axis": "y", "origin": [4, 17, 0]},
-			"faces": {
-				"north": {"uv": [9, 6, 10, 7], "texture": "#redstone_1"},
-				"east": {"uv": [10, 5, 11, 6], "texture": "#redstone_1"},
-				"south": {"uv": [9, 7, 10, 8], "texture": "#redstone_1"},
-				"west": {"uv": [10, 6, 11, 7], "texture": "#redstone_1"},
-				"up": {"uv": [10, 4, 11, 5], "texture": "#redstone_1"},
-				"down": {"uv": [10, 7, 11, 8], "texture": "#redstone_1"}
-			}
-		},
-		{
-			"name": "redstone_rail_main_lower",
-			"from": [11.702, 17.002, 15.62],
-			"to": [11.998, 17.298, 22.628],
-			"rotation": {"angle": 45, "axis": "x", "origin": [11.7, 17, 0]},
-			"faces": {
-				"north": {"uv": [7, 6, 8, 7], "texture": "#redstone_2"},
-				"east": {"uv": [0, 4, 7, 5], "texture": "#redstone_2"},
-				"south": {"uv": [7, 7, 8, 8], "texture": "#redstone_2"},
-				"west": {"uv": [0, 5, 7, 6], "texture": "#redstone_2"},
-				"up": {"uv": [0, 6, 7, 7], "rotation": 90, "texture": "#redstone_2"},
-				"down": {"uv": [0, 7, 7, 8], "rotation": 90, "texture": "#redstone_2"}
-			}
-		},
-		{
-			"name": "redstone_rail_main_upper",
-			"from": [11.702, 17.002, 0],
-			"to": [11.998, 17.298, 15.628],
-			"rotation": {"angle": 45, "axis": "x", "origin": [11.7, 17, 0]},
-			"faces": {
-				"north": {"uv": [7, 5, 8, 6], "texture": "#redstone_2"},
-				"east": {"uv": [0, 0, 16, 1], "texture": "#redstone_2"},
-				"south": {"uv": [7, 4, 8, 5], "texture": "#redstone_2"},
-				"west": {"uv": [0, 1, 16, 2], "texture": "#redstone_2"},
-				"up": {"uv": [0, 2, 16, 3], "rotation": 90, "texture": "#redstone_2"},
-				"down": {"uv": [0, 3, 16, 4], "rotation": 90, "texture": "#redstone_2"}
-			}
-		},
-		{
-			"name": "redstone_rail_filler",
-			"from": [11.704, 16.9594, 0.218],
-			"to": [11.996, 17.0834, 0.4316],
-			"rotation": {"angle": 45, "axis": "x", "origin": [12.2, 17.3, 0.425]},
-			"faces": {
-				"north": {"uv": [8, 6, 9, 7], "texture": "#redstone_2"},
-				"east": {"uv": [8, 4, 9, 5], "texture": "#redstone_2"},
-				"south": {"uv": [9, 4, 10, 5], "texture": "#redstone_2"},
-				"west": {"uv": [8, 5, 9, 6], "texture": "#redstone_2"},
-				"up": {"uv": [9, 5, 10, 6], "texture": "#redstone_2"},
-				"down": {"uv": [8, 7, 9, 8], "texture": "#redstone_2"}
-			}
-		},
-		{
-			"name": "redstone_rail_level",
-			"from": [11.706, 17.006, 0],
-			"to": [11.994, 17.294, 0.125],
-			"rotation": {"angle": 0, "axis": "y", "origin": [11.7, 17, 0]},
-			"faces": {
-				"north": {"uv": [9, 6, 10, 7], "texture": "#redstone_2"},
-				"east": {"uv": [10, 5, 11, 6], "texture": "#redstone_2"},
-				"south": {"uv": [9, 7, 10, 8], "texture": "#redstone_2"},
-				"west": {"uv": [10, 6, 11, 7], "texture": "#redstone_2"},
-				"up": {"uv": [10, 4, 11, 5], "texture": "#redstone_2"},
-				"down": {"uv": [10, 7, 11, 8], "texture": "#redstone_2"}
+				"north": {"uv": [6, 6, 0, 12], "texture": "#redstone"},
+				"east": {"uv": [6, 3, 12, 4], "rotation": 270, "texture": "#redstone"},
+				"south": {"uv": [0, 0, 6, 6], "texture": "#redstone"},
+				"west": {"uv": [6, 1, 12, 2], "rotation": 90, "texture": "#redstone"},
+				"up": {"uv": [6, 2, 12, 3], "rotation": 180, "texture": "#redstone"},
+				"down": {"uv": [6, 0, 12, 1], "texture": "#redstone"}
 			}
 		},
 		{
 			"name": "pressure_plate",
-			"from": [6.002, 17, 9.62],
+			"from": [6.002, 17.02, 9.62],
 			"to": [9.998, 17.75, 13.628],
 			"rotation": {"angle": 45, "axis": "x", "origin": [7, 17, 0]},
 			"faces": {
@@ -352,33 +253,20 @@
 							"children": [9, 10, 11, 12]
 						}
 					]
-				},
-				{
-					"name": "redstone",
-					"origin": [8, 8, 8],
-					"color": 0,
-					"children": [
-						{
-							"name": "left",
-							"origin": [8, 8, 8],
-							"color": 0,
-							"children": [13, 14, 15, 16]
-						},
-						{
-							"name": "right",
-							"origin": [8, 8, 8],
-							"color": 0,
-							"children": [17, 18, 19, 20]
-						}
-					]
 				}
 			]
+		},
+		{
+			"name": "redstone",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [13]
 		},
 		{
 			"name": "additions",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"children": [21]
+			"children": [14]
 		}
 	]
 }

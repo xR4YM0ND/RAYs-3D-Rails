@@ -7,8 +7,7 @@
 		"base_4": "rays_3d_rails:block/oak/base_3",
 		"iron_1": "rays_3d_rails:block/iron/rail_raised_3",
 		"iron_2": "rays_3d_rails:block/iron/rail_raised_1",
-		"redstone_1": "rays_3d_rails:block/redstone/rail_raised_3_on",
-		"redstone_2": "rays_3d_rails:block/redstone/rail_raised_1_on",
+		"redstone": "rays_3d_rails:block/redstone/standard_on",
 		"gold_1": "rays_3d_rails:block/gold/rail_raised_3",
 		"gold_2": "rays_3d_rails:block/gold/rail_raised_1"
 	}
