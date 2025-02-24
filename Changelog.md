@@ -1,5 +1,10 @@
 # RAY's 3D Rails Changelog
 
+## 2.4
+
+### Fixed:
+- Create Cart Assembler Compat
+
 ## 2.3
 
 ### Changed:
