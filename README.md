@@ -15,10 +15,11 @@ This Resourcepack changes Block & Item Textures for Rails in Minecraft.
 - [Little Logistics](https://modrinth.com/mod/little-logistics)
 - [Modern Minecarts](https://www.curseforge.com/minecraft/mc-mods/modernminecarts)
 - [More Minecarts and Rails](https://www.curseforge.com/minecraft/mc-mods/more-minecarts)
+- [More Rail Variants (MStV+)](https://modrinth.com/mod/more-rail-variants)
 - [Oxidized](https://modrinth.com/mod/oxidized)
 - [Spelunkery](https://modrinth.com/mod/spelunkery)
 - [Thermal Locomotion](https://modrinth.com/mod/thermal-locomotion)
-- [Useful Railroads](https://www.curseforge.com/minecraft/mc-mods/useful-railroads)
+- [Useful Railroads](https://modrinth.com/mod/useful-railroads)
 - [Vanilla](https://minecraft.wiki/w/Rail)
 - [Xannosz's Better Minecarts](https://www.curseforge.com/minecraft/mc-mods/xannoszs-better-minecarts)
 <center>
