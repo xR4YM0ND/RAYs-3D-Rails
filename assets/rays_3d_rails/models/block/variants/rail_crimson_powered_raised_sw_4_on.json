@@ -1,0 +1,6 @@
+{
+	"parent": "rays_3d_rails:block/variants/rail_crimson_powered_raised_sw_4_off",
+	"textures": {
+		"redstone": "rays_3d_rails:block/redstone/standard_on"
+	}
+}

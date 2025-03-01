@@ -1,0 +1,10 @@
+{
+	"parent": "rays_3d_rails:block/iron/rail_powered_3_off",
+	"textures": {
+		"base_1": "rays_3d_rails:block/warped/base_2",
+		"base_2": "rays_3d_rails:block/warped/base_4",
+		"base_3": "rays_3d_rails:block/warped/base_1",
+		"base_4": "rays_3d_rails:block/warped/base_3",
+        "particle": "rays_3d_rails:block/warped/base_1"
+	}
+}

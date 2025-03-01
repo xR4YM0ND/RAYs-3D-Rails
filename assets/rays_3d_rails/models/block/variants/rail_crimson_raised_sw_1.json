@@ -1,0 +1,10 @@
+{
+	"parent": "rays_3d_rails:block/iron/rail_raised_sw_1",
+	"textures": {
+		"base_1": "rays_3d_rails:block/crimson/base_1",
+		"base_2": "rays_3d_rails:block/crimson/base_2",
+		"base_3": "rays_3d_rails:block/crimson/base_3",
+		"base_4": "rays_3d_rails:block/crimson/base_4",
+        "particle": "rays_3d_rails:block/crimson/base_1"
+	}
+}

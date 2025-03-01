@@ -1,0 +1,168 @@
+{
+    "variants": {
+        "shape=ascending_east": [
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_raised_ne_1",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_raised_ne_2",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_raised_ne_3",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_raised_ne_4",
+                "y": 90
+            }
+        ],
+        "shape=ascending_north": [
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_raised_ne_1"
+            },
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_raised_ne_2"
+            },
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_raised_ne_3"
+            },
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_raised_ne_4"
+            }
+        ],
+        "shape=ascending_south": [
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_raised_sw_1"
+            },
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_raised_sw_2"
+            },
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_raised_sw_3"
+            },
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_raised_sw_4"
+            }
+        ],
+        "shape=ascending_west": [
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_raised_sw_1",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_raised_sw_2",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_raised_sw_3",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_raised_sw_4",
+                "y": 90
+            }
+        ],
+        "shape=east_west": [
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_1",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_2",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_3",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_4",
+                "y": 90
+            }
+        ],
+        "shape=north_east": [
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_curved_1",
+                "y": 270
+            },
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_curved_2",
+                "y": 270
+            },
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_curved_3",
+                "y": 270
+            },
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_curved_4",
+                "y": 270
+            }
+        ],
+        "shape=north_south": [
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_1"
+            },
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_2"
+            },
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_3"
+            },
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_4"
+            }
+        ],
+        "shape=north_west": [
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_curved_1",
+                "y": 180
+            },
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_curved_2",
+                "y": 180
+            },
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_curved_3",
+                "y": 180
+            },
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_curved_4",
+                "y": 180
+            }
+        ],
+        "shape=south_east": [
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_curved_1"
+            },
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_curved_2"
+            },
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_curved_3"
+            },
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_curved_4"
+            }
+        ],
+        "shape=south_west": [
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_curved_1",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_curved_2",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_curved_3",
+                "y": 90
+            },
+            {
+                "model": "rays_3d_rails:block/variants/rail_warped_curved_4",
+                "y": 90
+            }
+        ]
+    }
+}

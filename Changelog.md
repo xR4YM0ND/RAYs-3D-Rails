@@ -1,5 +1,10 @@
 # RAY's 3D Rails Changelog
 
+## 2.5
+
+### Added:
+- More Rail Variants (MStV+) `1.0.4` Support `// up to 4 variants`
+
 ## 2.4
 
 ### Fixed:

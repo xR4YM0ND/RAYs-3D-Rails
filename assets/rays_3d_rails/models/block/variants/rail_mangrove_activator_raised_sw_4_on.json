@@ -1,0 +1,6 @@
+{
+    "parent": "rays_3d_rails:block/variants/rail_mangrove_activator_raised_sw_4_off",
+    "textures": {
+        "redstone": "rays_3d_rails:block/redstone/standard_on"
+    }
+}

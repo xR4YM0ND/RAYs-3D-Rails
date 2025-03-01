@@ -1,0 +1,9 @@
+{
+	"parent": "rays_3d_rails:block/iron/rail_curved_2",
+	"textures": {
+		"base_1": "rays_3d_rails:block/mangrove/base_2",
+		"base_2": "rays_3d_rails:block/mangrove/base_3",
+		"base_3": "rays_3d_rails:block/mangrove/base_4",
+        "particle": "rays_3d_rails:block/mangrove/base_1"
+	}
+}

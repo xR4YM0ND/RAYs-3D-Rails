@@ -1,0 +1,6 @@
+{
+	"parent": "rays_3d_rails:block/variants/rail_jungle_detector_1_off",
+	"textures": {
+		"redstone": "rays_3d_rails:block/redstone/detector_on"
+	}
+}

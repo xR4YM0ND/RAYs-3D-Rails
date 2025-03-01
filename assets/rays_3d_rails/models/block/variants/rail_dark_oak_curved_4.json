@@ -1,0 +1,9 @@
+{
+	"parent": "rays_3d_rails:block/iron/rail_curved_4",
+	"textures": {
+		"base_1": "rays_3d_rails:block/dark_oak/base_1",
+		"base_2": "rays_3d_rails:block/dark_oak/base_3",
+		"base_3": "rays_3d_rails:block/dark_oak/base_4",
+        "particle": "rays_3d_rails:block/dark_oak/base_1"
+	}
+}
