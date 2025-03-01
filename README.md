@@ -22,6 +22,7 @@ This Resourcepack changes Block & Item Textures for Rails in Minecraft.
 - [Useful Railroads](https://modrinth.com/mod/useful-railroads)
 - [Vanilla](https://minecraft.wiki/w/Rail)
 - [Xannosz's Better Minecarts](https://www.curseforge.com/minecraft/mc-mods/xannoszs-better-minecarts)
+
 <center>
 
 If you want support for other mods let me know.  
@@ -38,3 +39,5 @@ If you want support for other mods let me know.
 <a href="https://modrinth.com/user/xR4YM0ND" target="_blank">
 <img alt="xR4YM0ND Modrinth" src="https://img.shields.io/badge/Modrinth-xR4YM0ND-1bd96a?style=for-the-badge"></a>
 <a href="https://legacy.curseforge.com/members/spigotde/projects" target="_blank"><img alt="xR4YM0ND Curseforge" src="https://img.shields.io/badge/Curseforge-xR4YM0ND-f16436?style=for-the-badge"></a>
+
+</center>
