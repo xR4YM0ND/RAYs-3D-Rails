@@ -1,0 +1,10 @@
+{
+	"parent": "rays_3d_rails:block/palladium/rail_curved_1",
+	"textures": {
+		"base_1": "rays_3d_rails:block/iron/base_4",
+		"base_2": "rays_3d_rails:block/iron/base_1",
+		"base_3": "rays_3d_rails:block/iron/base_2",
+		"rail_inner_1": "rays_3d_rails:block/palladium/rail_curved_inner_4",
+		"rail_outer_1": "rays_3d_rails:block/palladium/rail_curved_outer_2"
+	}
+}

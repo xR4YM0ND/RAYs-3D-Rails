@@ -1,5 +1,11 @@
 # RAY's 3D Rails Changelog
 
+## 2.6
+
+### Added:
+- Mythic Metals `0.22.1` Support `// up to 4 variants`
+
+
 ## 2.5
 
 ### Added:
