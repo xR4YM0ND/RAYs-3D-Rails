@@ -1,5 +1,10 @@
 # RAY's 3D Rails Changelog
 
+## 2.7
+
+### Added:
+- Copper Rails `1.0.5` Support `// up to 4 variants`
+
 ## 2.6
 
 ### Added:

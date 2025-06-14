@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "rays_3d_rails:block/iron/rail_crossing_1"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_crossing_2"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_crossing_3"
+            },
+            {
+                "model": "rays_3d_rails:block/iron/rail_crossing_4"
+            }
+        ]
+    }
+}

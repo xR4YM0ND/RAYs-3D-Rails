@@ -10,6 +10,7 @@ This Resourcepack changes Block & Item Textures for Rails in Minecraft.
 - [Alex's Caves](https://modrinth.com/mod/alexs-caves)
 - [Botania](https://modrinth.com/mod/botania)
 - [Caverns & Chasms](https://modrinth.com/mod/caverns-and-chasms)
+- [Copper Rails](https://modrinth.com/mod/copperrails)
 - [Create](https://modrinth.com/mod/create)
 - [Create Fabric](https://modrinth.com/mod/create-fabric)
 - [Little Logistics](https://modrinth.com/mod/little-logistics)
@@ -30,8 +31,8 @@ If you want support for other mods let me know.
 
 ## Credits
 
-<a href="https://discord.gg/2peBqWRwVp" target="_blank">
-<img alt="Discord Globox_Hood" src="https://img.shields.io/discord/745451299713056791?color=7289DA&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge"></a>
+<a href="https://discord.gg/WXdSYn4yHB" target="_blank">
+<img alt="Discord Fabricated Atelier" src="https://img.shields.io/discord/745451299713056791?color=7289DA&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge"></a>
 <a href="https://github.com/xR4YM0ND/RAYs-3D-Rails/blob/main/LICENSE" target="_blank">
 <img alt="GitHub License" src="https://img.shields.io/github/license/xR4YM0ND/RAYs-3D-Rails?style=for-the-badge"></a>
 <a href="https://github.com/xR4YM0ND/RAYs-3D-Rails" target="_blank">
