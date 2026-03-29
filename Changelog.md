@@ -2,11 +2,11 @@
 
 ## 3.0
 This took quite a while to get my head around.  
-Eventually i added **LabPBR shader support** via specular maps.
+Finally i added **LabPBR shader support** via specular maps.
 
 I used [LabPBR Material Standard](https://shaderlabs.org/wiki/LabPBR_Material_Standard#Specular_Texture_(_s)) as a preset for the specular maps and build on it.
 
-Actual values used if someone is interested can be found [here](https://github.com/xR4YM0ND/RAYs-3D-Rails/blob/main/assets/rays_3d_rails/info_material.md).  
+Actual values used - *if someone is interested* - can be found [here](https://github.com/xR4YM0ND/RAYs-3D-Rails/blob/main/assets/rays_3d_rails/info_material.md).  
 `// Note that it highly depends on the shader and their LabPBR settings`
 
 *Currently **specular maps** are supported for all textures with 4 variants.*

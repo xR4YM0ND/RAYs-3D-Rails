@@ -38,7 +38,7 @@ It doesn't add any items or blocks itself, it overwrites the model of existing r
 If you want support for other mods let me know.  
 
 ## Links
-[![GitHub License Badge](https://img.shields.io/github/license/xR4YM0ND/RAYs-3D-Rails?style=for-the-badge&label=%C2%A7&labelColor=555555)](https://github.com/xR4YM0ND/RAYs-3D-Rails/blob/master/LICENSE)
+[![GitHub License Badge](https://img.shields.io/github/license/xR4YM0ND/RAYs-3D-Rails?style=for-the-badge&label=%C2%A7&labelColor=555555)](https://github.com/xR4YM0ND/RAYs-3D-Rails/blob/main/LICENSE)
 [![Source Code Badge](https://img.shields.io/badge/source_code-lightgray?style=for-the-badge&logo=github&label=%20&labelColor=555555)](https://github.com/xR4YM0ND/RAYs-3D-Rails)
 [![Discord Badge](https://img.shields.io/discord/745451299713056791?style=for-the-badge&logo=discord&logoColor=white&label=%20&labelColor=555555&color=5865F2)](https://discord.gg/WXdSYn4yHB)
 
