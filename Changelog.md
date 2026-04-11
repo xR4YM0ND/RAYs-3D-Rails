@@ -1,5 +1,10 @@
 # RAY's 3D Rails Changelog
 
+## 3.1
+
+### Fixed:
+- Modern Minecarts Copper Rails `// forgot to apply the copper path changes to modern minecarts`
+
 ## 3.0
 This took quite a while to get my head around.  
 Finally i added **LabPBR shader support** via specular maps.
