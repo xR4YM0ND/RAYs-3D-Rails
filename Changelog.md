@@ -3,7 +3,8 @@
 ## 3.1
 
 ### Fixed:
-- Modern Minecarts Copper Rails `// forgot to apply the copper path changes to modern minecarts`
+- **Modern Minecarts** -> Copper Rails `// forgot to apply the copper path changes to modern minecarts`
+- **More Minecarts and Rails** -> colored detector rails texture issue due to 4 variants update `// thx @Fullooa`
 
 ## 3.0
 This took quite a while to get my head around.  

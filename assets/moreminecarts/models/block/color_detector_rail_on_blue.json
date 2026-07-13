@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:block/detector_rail",
+	"parent": "moreminecarts:block/detector_rail",
 	"textures": {
 		"0": "moreminecarts:block/rays_colored_detector_blue_on",
 		"particle": "moreminecarts:block/rays_colored_detector_blue_on"
