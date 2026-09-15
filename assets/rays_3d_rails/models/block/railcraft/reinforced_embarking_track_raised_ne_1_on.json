@@ -1,0 +1,7 @@
+{
+	"parent": "rays_3d_rails:block/railcraft/reinforced_embarking_track_raised_ne_1_off",
+	"textures": {
+		"redstone": "rays_3d_rails:block/redstone/standard_on",
+		"pearl": "rays_3d_rails:block/special/ender_pearl_on"
+	}
+}

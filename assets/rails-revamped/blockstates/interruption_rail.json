@@ -1,0 +1,424 @@
+{
+  "variants": {
+    "powered=false,shape=ascending_east,direction=negative": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_sw_south_1_off",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_sw_south_2_off",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_sw_south_3_off",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_sw_south_4_off",
+        "y": 270
+      }
+    ],
+    "powered=false,shape=ascending_north,direction=negative": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_north_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_north_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_north_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_north_4_off"
+      }
+    ],
+    "powered=false,shape=ascending_south,direction=negative": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_south_1_off",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_south_2_off",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_south_3_off",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_south_4_off",
+        "y": 180
+      }
+    ],
+    "powered=false,shape=ascending_west,direction=negative": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_north_1_off",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_north_2_off",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_north_3_off",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_north_4_off",
+        "y": 270
+      }
+    ],
+    "powered=false,shape=east_west,direction=negative": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_south_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_south_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_south_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_south_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,shape=north_south,direction=negative": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_south_1_off",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_south_2_off",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_south_3_off",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_south_4_off",
+        "y": 180
+      }
+    ],
+    "powered=true,shape=ascending_east,direction=negative": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_sw_south_1_on",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_sw_south_2_on",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_sw_south_3_on",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_sw_south_4_on",
+        "y": 270
+      }
+    ],
+    "powered=true,shape=ascending_north,direction=negative": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_north_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_north_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_north_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_north_4_on"
+      }
+    ],
+    "powered=true,shape=ascending_south,direction=negative": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_sw_south_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_sw_south_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_sw_south_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_sw_south_4_on"
+      }
+    ],
+    "powered=true,shape=ascending_west,direction=negative": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_north_1_on",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_north_2_on",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_north_3_on",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_north_4_on",
+        "y": 270
+      }
+    ],
+    "powered=true,shape=east_west,direction=negative": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_south_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_south_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_south_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_south_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,shape=north_south,direction=negative": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_south_1_on",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_south_2_on",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_south_3_on",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_south_4_on",
+        "y": 180
+      }
+    ],
+    "powered=false,shape=ascending_east,direction=positive": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_north_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_north_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_north_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_north_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,shape=ascending_north,direction=positive": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_sw_south_1_off",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_sw_south_2_off",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_sw_south_3_off",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_sw_south_4_off",
+        "y": 180
+      }
+    ],
+    "powered=false,shape=ascending_south,direction=positive": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_north_1_off",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_north_2_off",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_north_3_off",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_north_4_off",
+        "y": 180
+      }
+    ],
+    "powered=false,shape=ascending_west,direction=positive": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_sw_south_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_sw_south_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_sw_south_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_sw_south_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,shape=east_west,direction=positive": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_north_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_north_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_north_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_north_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,shape=north_south,direction=positive": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_north_1_off",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_north_2_off",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_north_3_off",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_north_4_off",
+        "y": 180
+      }
+    ],
+    "powered=true,shape=ascending_east,direction=positive": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_north_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_north_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_north_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_north_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,shape=ascending_north,direction=positive": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_sw_south_1_on",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_sw_south_2_on",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_sw_south_3_on",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_sw_south_4_on",
+        "y": 180
+      }
+    ],
+    "powered=true,shape=ascending_south,direction=positive": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_north_1_on",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_north_2_on",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_north_3_on",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_ne_north_4_on",
+        "y": 180
+      }
+    ],
+    "powered=true,shape=ascending_west,direction=positive": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_sw_south_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_sw_south_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_sw_south_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_raised_sw_south_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,shape=east_west,direction=positive": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_north_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_north_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_north_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_north_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,shape=north_south,direction=positive": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_north_1_on",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_north_2_on",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_north_3_on",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_clamp_oneway_powered_north_4_on",
+        "y": 180
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_ne_1_off",
+  "textures": {
+    "redstone": "rays_3d_rails:block/redstone/standard_on"
+  }
+}

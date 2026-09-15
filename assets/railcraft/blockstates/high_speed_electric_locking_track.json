@@ -1,0 +1,532 @@
+{
+  "variants": {
+    "powered=false,locking_mode=lockdown,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_lockdown_1_off"
+      }
+    ],
+    "powered=false,locking_mode=train_lockdown,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_lockdown_1_off"
+      }
+    ],
+    "powered=false,locking_mode=holding,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_holding_1_off"
+      }
+    ],
+    "powered=false,locking_mode=train_holding,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_holding_1_off"
+      }
+    ],
+    "powered=false,locking_mode=boarding,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_boarding_1_off"
+      }
+    ],
+    "powered=false,locking_mode=train_boarding,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_boarding_1_off"
+      }
+    ],
+    "powered=false,locking_mode=boarding_reversed,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_boarding_reversed_1_off"
+      }
+    ],
+    "powered=false,locking_mode=train_boarding_reversed,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_boarding_reversed_1_off"
+      }
+    ],
+    "powered=true,locking_mode=lockdown,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_lockdown_1_on"
+      }
+    ],
+    "powered=true,locking_mode=train_lockdown,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_lockdown_1_on"
+      }
+    ],
+    "powered=true,locking_mode=holding,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_holding_1_on"
+      }
+    ],
+    "powered=true,locking_mode=train_holding,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_holding_1_on"
+      }
+    ],
+    "powered=true,locking_mode=boarding,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_boarding_1_on"
+      }
+    ],
+    "powered=true,locking_mode=train_boarding,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_boarding_1_on"
+      }
+    ],
+    "powered=true,locking_mode=boarding_reversed,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_boarding_reversed_1_on"
+      }
+    ],
+    "powered=true,locking_mode=train_boarding_reversed,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_boarding_reversed_1_on"
+      }
+    ],
+    "powered=false,locking_mode=lockdown,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_lockdown_1_off",
+        "y": 90
+      }
+    ],
+    "powered=false,locking_mode=train_lockdown,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_lockdown_1_off",
+        "y": 90
+      }
+    ],
+    "powered=false,locking_mode=holding,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_holding_1_off",
+        "y": 90
+      }
+    ],
+    "powered=false,locking_mode=train_holding,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_holding_1_off",
+        "y": 90
+      }
+    ],
+    "powered=false,locking_mode=boarding,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_boarding_1_off",
+        "y": 90
+      }
+    ],
+    "powered=false,locking_mode=train_boarding,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_boarding_1_off",
+        "y": 90
+      }
+    ],
+    "powered=false,locking_mode=boarding_reversed,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_boarding_reversed_1_off",
+        "y": 90
+      }
+    ],
+    "powered=false,locking_mode=train_boarding_reversed,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_boarding_reversed_1_off",
+        "y": 90
+      }
+    ],
+    "powered=true,locking_mode=lockdown,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_lockdown_1_on",
+        "y": 90
+      }
+    ],
+    "powered=true,locking_mode=train_lockdown,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_lockdown_1_on",
+        "y": 90
+      }
+    ],
+    "powered=true,locking_mode=holding,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_holding_1_on",
+        "y": 90
+      }
+    ],
+    "powered=true,locking_mode=train_holding,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_holding_1_on",
+        "y": 90
+      }
+    ],
+    "powered=true,locking_mode=boarding,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_boarding_1_on",
+        "y": 90
+      }
+    ],
+    "powered=true,locking_mode=train_boarding,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_boarding_1_on",
+        "y": 90
+      }
+    ],
+    "powered=true,locking_mode=boarding_reversed,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_boarding_reversed_1_on",
+        "y": 90
+      }
+    ],
+    "powered=true,locking_mode=train_boarding_reversed,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_boarding_reversed_1_on",
+        "y": 90
+      }
+    ],
+    "powered=false,locking_mode=lockdown,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_lockdown_raised_ne_1_off"
+      }
+    ],
+    "powered=false,locking_mode=train_lockdown,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_lockdown_raised_ne_1_off"
+      }
+    ],
+    "powered=false,locking_mode=holding,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_holding_raised_ne_1_off"
+      }
+    ],
+    "powered=false,locking_mode=train_holding,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_holding_raised_ne_1_off"
+      }
+    ],
+    "powered=false,locking_mode=boarding,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_boarding_raised_ne_1_off"
+      }
+    ],
+    "powered=false,locking_mode=train_boarding,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_boarding_raised_ne_1_off"
+      }
+    ],
+    "powered=false,locking_mode=boarding_reversed,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_boarding_reversed_raised_ne_1_off"
+      }
+    ],
+    "powered=false,locking_mode=train_boarding_reversed,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_boarding_reversed_raised_ne_1_off"
+      }
+    ],
+    "powered=true,locking_mode=lockdown,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_lockdown_raised_ne_1_on"
+      }
+    ],
+    "powered=true,locking_mode=train_lockdown,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_lockdown_raised_ne_1_on"
+      }
+    ],
+    "powered=true,locking_mode=holding,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_holding_raised_ne_1_on"
+      }
+    ],
+    "powered=true,locking_mode=train_holding,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_holding_raised_ne_1_on"
+      }
+    ],
+    "powered=true,locking_mode=boarding,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_boarding_raised_ne_1_on"
+      }
+    ],
+    "powered=true,locking_mode=train_boarding,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_boarding_raised_ne_1_on"
+      }
+    ],
+    "powered=true,locking_mode=boarding_reversed,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_boarding_reversed_raised_ne_1_on"
+      }
+    ],
+    "powered=true,locking_mode=train_boarding_reversed,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_boarding_reversed_raised_ne_1_on"
+      }
+    ],
+    "powered=false,locking_mode=lockdown,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_lockdown_raised_ne_1_off",
+        "y": 90
+      }
+    ],
+    "powered=false,locking_mode=train_lockdown,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_lockdown_raised_ne_1_off",
+        "y": 90
+      }
+    ],
+    "powered=false,locking_mode=holding,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_holding_raised_ne_1_off",
+        "y": 90
+      }
+    ],
+    "powered=false,locking_mode=train_holding,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_holding_raised_ne_1_off",
+        "y": 90
+      }
+    ],
+    "powered=false,locking_mode=boarding,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_boarding_raised_ne_1_off",
+        "y": 90
+      }
+    ],
+    "powered=false,locking_mode=train_boarding,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_boarding_raised_ne_1_off",
+        "y": 90
+      }
+    ],
+    "powered=false,locking_mode=boarding_reversed,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_boarding_reversed_raised_ne_1_off",
+        "y": 90
+      }
+    ],
+    "powered=false,locking_mode=train_boarding_reversed,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_boarding_reversed_raised_ne_1_off",
+        "y": 90
+      }
+    ],
+    "powered=true,locking_mode=lockdown,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_lockdown_raised_ne_1_on",
+        "y": 90
+      }
+    ],
+    "powered=true,locking_mode=train_lockdown,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_lockdown_raised_ne_1_on",
+        "y": 90
+      }
+    ],
+    "powered=true,locking_mode=holding,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_holding_raised_ne_1_on",
+        "y": 90
+      }
+    ],
+    "powered=true,locking_mode=train_holding,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_holding_raised_ne_1_on",
+        "y": 90
+      }
+    ],
+    "powered=true,locking_mode=boarding,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_boarding_raised_ne_1_on",
+        "y": 90
+      }
+    ],
+    "powered=true,locking_mode=train_boarding,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_boarding_raised_ne_1_on",
+        "y": 90
+      }
+    ],
+    "powered=true,locking_mode=boarding_reversed,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_boarding_reversed_raised_ne_1_on",
+        "y": 90
+      }
+    ],
+    "powered=true,locking_mode=train_boarding_reversed,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_boarding_reversed_raised_ne_1_on",
+        "y": 90
+      }
+    ],
+    "powered=false,locking_mode=lockdown,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_lockdown_raised_sw_1_off"
+      }
+    ],
+    "powered=false,locking_mode=train_lockdown,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_lockdown_raised_sw_1_off"
+      }
+    ],
+    "powered=false,locking_mode=holding,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_holding_raised_sw_1_off"
+      }
+    ],
+    "powered=false,locking_mode=train_holding,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_holding_raised_sw_1_off"
+      }
+    ],
+    "powered=false,locking_mode=boarding,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_boarding_raised_sw_1_off"
+      }
+    ],
+    "powered=false,locking_mode=train_boarding,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_boarding_raised_sw_1_off"
+      }
+    ],
+    "powered=false,locking_mode=boarding_reversed,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_boarding_reversed_raised_sw_1_off"
+      }
+    ],
+    "powered=false,locking_mode=train_boarding_reversed,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_boarding_reversed_raised_sw_1_off"
+      }
+    ],
+    "powered=true,locking_mode=lockdown,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_lockdown_raised_sw_1_on"
+      }
+    ],
+    "powered=true,locking_mode=train_lockdown,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_lockdown_raised_sw_1_on"
+      }
+    ],
+    "powered=true,locking_mode=holding,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_holding_raised_sw_1_on"
+      }
+    ],
+    "powered=true,locking_mode=train_holding,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_holding_raised_sw_1_on"
+      }
+    ],
+    "powered=true,locking_mode=boarding,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_boarding_reversed_raised_sw_1_on"
+      }
+    ],
+    "powered=true,locking_mode=train_boarding,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_boarding_reversed_raised_sw_1_on"
+      }
+    ],
+    "powered=true,locking_mode=boarding_reversed,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_boarding_raised_sw_1_on"
+      }
+    ],
+    "powered=true,locking_mode=train_boarding_reversed,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_boarding_raised_sw_1_on"
+      }
+    ],
+    "powered=false,locking_mode=lockdown,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_lockdown_raised_sw_1_off",
+        "y": 90
+      }
+    ],
+    "powered=false,locking_mode=train_lockdown,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_lockdown_raised_sw_1_off",
+        "y": 90
+      }
+    ],
+    "powered=false,locking_mode=holding,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_holding_raised_sw_1_off",
+        "y": 90
+      }
+    ],
+    "powered=false,locking_mode=train_holding,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_holding_raised_sw_1_off",
+        "y": 90
+      }
+    ],
+    "powered=false,locking_mode=boarding,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_boarding_reversed_raised_sw_1_off",
+        "y": 90
+      }
+    ],
+    "powered=false,locking_mode=train_boarding,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_boarding_reversed_raised_sw_1_off",
+        "y": 90
+      }
+    ],
+    "powered=false,locking_mode=boarding_reversed,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_boarding_raised_sw_1_off",
+        "y": 90
+      }
+    ],
+    "powered=false,locking_mode=train_boarding_reversed,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_boarding_raised_sw_1_off",
+        "y": 90
+      }
+    ],
+    "powered=true,locking_mode=lockdown,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_lockdown_raised_sw_1_on",
+        "y": 90
+      }
+    ],
+    "powered=true,locking_mode=train_lockdown,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_lockdown_raised_sw_1_on",
+        "y": 90
+      }
+    ],
+    "powered=true,locking_mode=holding,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_holding_raised_sw_1_on",
+        "y": 90
+      }
+    ],
+    "powered=true,locking_mode=train_holding,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_holding_raised_sw_1_on",
+        "y": 90
+      }
+    ],
+    "powered=true,locking_mode=boarding,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_boarding_raised_sw_1_on",
+        "y": 90
+      }
+    ],
+    "powered=true,locking_mode=train_boarding,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_boarding_raised_sw_1_on",
+        "y": 90
+      }
+    ],
+    "powered=true,locking_mode=boarding_reversed,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_boarding_reversed_raised_sw_1_on",
+        "y": 90
+      }
+    ],
+    "powered=true,locking_mode=train_boarding_reversed,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_locking_track_train_boarding_reversed_raised_sw_1_on",
+        "y": 90
+      }
+    ]
+  }
+}

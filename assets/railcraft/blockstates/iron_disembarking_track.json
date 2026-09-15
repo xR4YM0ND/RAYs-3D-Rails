@@ -1,0 +1,388 @@
+{
+  "variants": {
+    "powered=false,mirrored=false,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_4_off"
+      }
+    ],
+    "powered=false,mirrored=true,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_4_off"
+      }
+    ],
+    "powered=true,mirrored=false,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_4_on"
+      }
+    ],
+    "powered=true,mirrored=true,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_4_on"
+      }
+    ],
+    "powered=false,mirrored=false,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,mirrored=true,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_4_off",
+        "y": 90
+      }
+    ],
+    "powered=true,mirrored=false,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,mirrored=true,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_4_on",
+        "y": 90
+      }
+    ],
+    "powered=false,mirrored=false,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_raised_ne_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_raised_ne_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_raised_ne_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_raised_ne_4_off"
+      }
+    ],
+    "powered=false,mirrored=true,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_raised_ne_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_raised_ne_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_raised_ne_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_raised_ne_4_off"
+      }
+    ],
+    "powered=true,mirrored=false,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_raised_ne_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_raised_ne_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_raised_ne_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_raised_ne_4_on"
+      }
+    ],
+    "powered=true,mirrored=true,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_raised_ne_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_raised_ne_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_raised_ne_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_raised_ne_4_on"
+      }
+    ],
+    "powered=false,mirrored=false,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_raised_sw_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_raised_sw_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_raised_sw_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_raised_sw_4_off"
+      }
+    ],
+    "powered=false,mirrored=true,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_raised_sw_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_raised_sw_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_raised_sw_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_raised_sw_4_off"
+      }
+    ],
+    "powered=true,mirrored=false,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_raised_sw_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_raised_sw_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_raised_sw_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_raised_sw_4_on"
+      }
+    ],
+    "powered=true,mirrored=true,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_raised_sw_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_raised_sw_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_raised_sw_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_raised_sw_4_on"
+      }
+    ],
+    "powered=false,mirrored=false,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_raised_ne_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_raised_ne_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_raised_ne_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_raised_ne_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,mirrored=true,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_raised_ne_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_raised_ne_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_raised_ne_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_raised_ne_4_off",
+        "y": 90
+      }
+    ],
+    "powered=true,mirrored=false,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_raised_ne_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_raised_ne_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_raised_ne_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_raised_ne_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,mirrored=true,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_raised_ne_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_raised_ne_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_raised_ne_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_raised_ne_4_on",
+        "y": 90
+      }
+    ],
+    "powered=false,mirrored=false,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_raised_sw_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_raised_sw_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_raised_sw_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_raised_sw_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,mirrored=true,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_raised_sw_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_raised_sw_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_raised_sw_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_raised_sw_4_off",
+        "y": 90
+      }
+    ],
+    "powered=true,mirrored=false,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_raised_sw_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_raised_sw_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_raised_sw_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_right_raised_sw_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,mirrored=true,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_raised_sw_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_raised_sw_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_raised_sw_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_disembarking_track_left_raised_sw_4_on",
+        "y": 90
+      }
+    ]
+  }
+}

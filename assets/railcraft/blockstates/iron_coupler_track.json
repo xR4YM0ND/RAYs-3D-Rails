@@ -1,0 +1,581 @@
+{
+  "variants": {
+    "powered=false,mode=coupler,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_4_off"
+      }
+    ],
+    "powered=false,mode=decoupler,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_4_off"
+      }
+    ],
+    "powered=false,mode=auto_coupler,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_4_off"
+      }
+    ],
+    "powered=true,mode=coupler,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_4_on"
+      }
+    ],
+    "powered=true,mode=decoupler,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_4_on"
+      }
+    ],
+    "powered=true,mode=auto_coupler,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_4_on"
+      }
+    ],
+    "powered=false,mode=coupler,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,mode=decoupler,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,mode=auto_coupler,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_4_off",
+        "y": 90
+      }
+    ],
+    "powered=true,mode=coupler,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,mode=decoupler,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,mode=auto_coupler,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_4_on",
+        "y": 90
+      }
+    ],
+    "powered=false,mode=coupler,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_raised_ne_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_raised_ne_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_raised_ne_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_raised_ne_4_off"
+      }
+    ],
+    "powered=false,mode=decoupler,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_raised_ne_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_raised_ne_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_raised_ne_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_raised_ne_4_off"
+      }
+    ],
+    "powered=false,mode=auto_coupler,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_ne_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_ne_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_ne_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_ne_4_off"
+      }
+    ],
+    "powered=true,mode=coupler,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_raised_ne_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_raised_ne_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_raised_ne_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_raised_ne_4_on"
+      }
+    ],
+    "powered=true,mode=decoupler,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_raised_ne_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_raised_ne_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_raised_ne_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_raised_ne_4_on"
+      }
+    ],
+    "powered=true,mode=auto_coupler,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_ne_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_ne_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_ne_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_ne_4_on"
+      }
+    ],
+    "powered=false,mode=coupler,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_raised_sw_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_raised_sw_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_raised_sw_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_raised_sw_4_off"
+      }
+    ],
+    "powered=false,mode=decoupler,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_raised_sw_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_raised_sw_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_raised_sw_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_raised_sw_4_off"
+      }
+    ],
+    "powered=false,mode=auto_coupler,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_sw_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_sw_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_sw_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_sw_4_off"
+      }
+    ],
+    "powered=true,mode=coupler,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_raised_sw_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_raised_sw_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_raised_sw_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_raised_sw_4_on"
+      }
+    ],
+    "powered=true,mode=decoupler,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_raised_sw_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_raised_sw_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_raised_sw_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_raised_sw_4_on"
+      }
+    ],
+    "powered=true,mode=auto_coupler,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_sw_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_sw_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_sw_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_sw_4_on"
+      }
+    ],
+    "powered=false,mode=coupler,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_raised_ne_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_raised_ne_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_raised_ne_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_raised_ne_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,mode=decoupler,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_raised_ne_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_raised_ne_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_raised_ne_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_raised_ne_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,mode=auto_coupler,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_ne_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_ne_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_ne_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_ne_4_off",
+        "y": 90
+      }
+    ],
+    "powered=true,mode=coupler,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_raised_ne_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_raised_ne_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_raised_ne_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_raised_ne_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,mode=decoupler,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_raised_ne_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_raised_ne_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_raised_ne_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_raised_ne_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,mode=auto_coupler,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_ne_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_ne_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_ne_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_ne_4_on",
+        "y": 90
+      }
+    ],
+    "powered=false,mode=coupler,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_raised_sw_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_raised_sw_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_raised_sw_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_raised_sw_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,mode=decoupler,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_raised_sw_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_raised_sw_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_raised_sw_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_raised_sw_4_off",
+        "y": 90
+      }
+
+    ],
+    "powered=false,mode=auto_coupler,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_sw_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_sw_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_sw_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_sw_4_off",
+        "y": 90
+      }
+    ],
+    "powered=true,mode=coupler,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_raised_sw_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_raised_sw_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_raised_sw_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_coupler_raised_sw_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,mode=decoupler,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_raised_sw_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_raised_sw_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_raised_sw_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_decoupler_raised_sw_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,mode=auto_coupler,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_sw_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_sw_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_sw_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/iron_coupler_track_auto_coupler_raised_sw_4_on",
+        "y": 90
+      }
+    ]
+  }
+}

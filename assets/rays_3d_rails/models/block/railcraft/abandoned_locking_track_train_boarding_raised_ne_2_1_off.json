@@ -1,0 +1,6 @@
+{
+  "parent": "rays_3d_rails:block/railcraft/abandoned_locking_track_train_boarding_reversed_raised_ne_2_1_off",
+  "textures": {
+    "locking": "rays_3d_rails:block/special/locking_train_off"
+  }
+}

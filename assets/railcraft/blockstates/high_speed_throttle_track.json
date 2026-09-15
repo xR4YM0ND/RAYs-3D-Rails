@@ -1,0 +1,1472 @@
+{
+  "variants": {
+    "powered=false,reverse=false,locomotive_speed=slowest,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_4_off"
+      }
+    ],
+    "powered=false,reverse=false,locomotive_speed=slower,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_4_off"
+      }
+    ],
+    "powered=false,reverse=false,locomotive_speed=normal,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_4_off"
+      }
+    ],
+    "powered=false,reverse=false,locomotive_speed=max,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_4_off"
+      }
+    ],
+    "powered=false,reverse=true,locomotive_speed=slowest,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_4_off"
+      }
+    ],
+    "powered=false,reverse=true,locomotive_speed=slower,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_4_off"
+      }
+    ],
+    "powered=false,reverse=true,locomotive_speed=normal,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_4_off"
+      }
+    ],
+    "powered=false,reverse=true,locomotive_speed=max,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_4_off"
+      }
+    ],
+    "powered=true,reverse=false,locomotive_speed=slowest,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_4_on"
+      }
+    ],
+    "powered=true,reverse=false,locomotive_speed=slower,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_4_on"
+      }
+    ],
+    "powered=true,reverse=false,locomotive_speed=normal,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_4_on"
+      }
+    ],
+    "powered=true,reverse=false,locomotive_speed=max,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_4_on"
+      }
+    ],
+    "powered=true,reverse=true,locomotive_speed=slowest,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_4_on"
+      }
+    ],
+    "powered=true,reverse=true,locomotive_speed=normal,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_4_on"
+      }
+    ],
+    "powered=true,reverse=true,locomotive_speed=max,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_4_on"
+      }
+    ],
+    "powered=false,reverse=false,locomotive_speed=slowest,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,reverse=false,locomotive_speed=slower,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,reverse=false,locomotive_speed=normal,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,reverse=false,locomotive_speed=max,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,reverse=true,locomotive_speed=slowest,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,reverse=true,locomotive_speed=slower,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,reverse=true,locomotive_speed=normal,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,reverse=true,locomotive_speed=max,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_4_off",
+        "y": 90
+      }
+    ],
+    "powered=true,reverse=true,locomotive_speed=slowest,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,reverse=true,locomotive_speed=slower,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,reverse=true,locomotive_speed=normal,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,reverse=true,locomotive_speed=max,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,reverse=false,locomotive_speed=slowest,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,reverse=false,locomotive_speed=slower,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,reverse=false,locomotive_speed=normal,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,reverse=false,locomotive_speed=max,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_4_on",
+        "y": 90
+      }
+    ],
+    "powered=false,reverse=false,locomotive_speed=slowest,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_raised_ne_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_raised_ne_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_raised_ne_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_raised_ne_4_off"
+      }
+    ],
+    "powered=false,reverse=false,locomotive_speed=slower,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_raised_ne_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_raised_ne_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_raised_ne_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_raised_ne_4_off"
+      }
+    ],
+    "powered=false,reverse=false,locomotive_speed=normal,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_raised_ne_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_raised_ne_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_raised_ne_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_raised_ne_4_off"
+      }
+    ],
+    "powered=false,reverse=false,locomotive_speed=max,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_raised_ne_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_raised_ne_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_raised_ne_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_raised_ne_4_off"
+      }
+    ],
+    "powered=false,reverse=true,locomotive_speed=slowest,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_raised_ne_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_raised_ne_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_raised_ne_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_raised_ne_4_off"
+      }
+    ],
+    "powered=false,reverse=true,locomotive_speed=slower,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_raised_ne_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_raised_ne_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_raised_ne_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_raised_ne_4_off"
+      }
+    ],
+    "powered=false,reverse=true,locomotive_speed=normal,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_raised_ne_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_raised_ne_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_raised_ne_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_raised_ne_4_off"
+      }
+    ],
+    "powered=false,reverse=true,locomotive_speed=max,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_raised_ne_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_raised_ne_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_raised_ne_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_raised_ne_4_off"
+      }
+    ],
+    "powered=true,reverse=false,locomotive_speed=slowest,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_raised_ne_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_raised_ne_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_raised_ne_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_raised_ne_4_on"
+      }
+    ],
+    "powered=true,reverse=false,locomotive_speed=slower,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_raised_ne_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_raised_ne_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_raised_ne_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_raised_ne_4_on"
+      }
+    ],
+    "powered=true,reverse=false,locomotive_speed=normal,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_raised_ne_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_raised_ne_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_raised_ne_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_raised_ne_4_on"
+      }
+    ],
+    "powered=true,reverse=false,locomotive_speed=max,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_raised_ne_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_raised_ne_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_raised_ne_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_raised_ne_4_on"
+      }
+    ],
+    "powered=false,reverse=true,locomotive_speed=slowest,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_raised_sw_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_raised_sw_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_raised_sw_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_raised_sw_4_off"
+      }
+    ],
+    "powered=false,reverse=true,locomotive_speed=slower,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_raised_sw_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_raised_sw_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_raised_sw_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_raised_sw_4_off"
+      }
+    ],
+    "powered=false,reverse=true,locomotive_speed=normal,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_raised_sw_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_raised_sw_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_raised_sw_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_raised_sw_4_off"
+      }
+    ],
+    "powered=false,reverse=true,locomotive_speed=max,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_raised_sw_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_raised_sw_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_raised_sw_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_raised_sw_4_off"
+      }
+    ],
+    "powered=false,reverse=false,locomotive_speed=slowest,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_raised_sw_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_raised_sw_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_raised_sw_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_raised_sw_4_off"
+      }
+    ],
+    "powered=false,reverse=false,locomotive_speed=slower,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_raised_sw_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_raised_sw_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_raised_sw_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_raised_sw_4_off"
+      }
+    ],
+    "powered=false,reverse=false,locomotive_speed=normal,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_raised_sw_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_raised_sw_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_raised_sw_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_raised_sw_4_off"
+      }
+    ],
+    "powered=false,reverse=false,locomotive_speed=max,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_raised_sw_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_raised_sw_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_raised_sw_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_raised_sw_4_off"
+      }
+    ],
+    "powered=true,reverse=true,locomotive_speed=slowest,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_raised_sw_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_raised_sw_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_raised_sw_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_raised_sw_4_on"
+      }
+    ],
+    "powered=true,reverse=true,locomotive_speed=slower,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_raised_sw_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_raised_sw_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_raised_sw_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_raised_sw_4_on"
+      }
+    ],
+    "powered=true,reverse=true,locomotive_speed=normal,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_raised_sw_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_raised_sw_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_raised_sw_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_raised_sw_4_on"
+      }
+    ],
+    "powered=true,reverse=true,locomotive_speed=max,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_raised_sw_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_raised_sw_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_raised_sw_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_raised_sw_4_on"
+      }
+    ],
+    "powered=true,reverse=false,locomotive_speed=slowest,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_raised_sw_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_raised_sw_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_raised_sw_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_raised_sw_4_on"
+      }
+    ],
+    "powered=true,reverse=false,locomotive_speed=slower,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_raised_sw_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_raised_sw_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_raised_sw_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_raised_sw_4_on"
+      }
+    ],
+    "powered=true,reverse=false,locomotive_speed=normal,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_raised_sw_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_raised_sw_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_raised_sw_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_raised_sw_4_on"
+      }
+    ],
+    "powered=true,reverse=false,locomotive_speed=max,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_raised_sw_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_raised_sw_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_raised_sw_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_raised_sw_4_on"
+      }
+    ],
+    "powered=false,reverse=false,locomotive_speed=slowest,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_raised_ne_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_raised_ne_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_raised_ne_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_raised_ne_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,reverse=false,locomotive_speed=slower,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_raised_ne_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_raised_ne_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_raised_ne_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_raised_ne_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,reverse=false,locomotive_speed=normal,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_raised_ne_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_raised_ne_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_raised_ne_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_raised_ne_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,reverse=false,locomotive_speed=max,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_raised_ne_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_raised_ne_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_raised_ne_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_raised_ne_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,reverse=true,locomotive_speed=slowest,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_raised_ne_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_raised_ne_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_raised_ne_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_raised_ne_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,reverse=true,locomotive_speed=slower,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_raised_ne_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_raised_ne_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_raised_ne_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_raised_ne_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,reverse=true,locomotive_speed=normal,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_raised_ne_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_raised_ne_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_raised_ne_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_raised_ne_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,reverse=true,locomotive_speed=max,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_raised_ne_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_raised_ne_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_raised_ne_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_raised_ne_4_off",
+        "y": 90
+      }
+    ],
+    "powered=true,reverse=false,locomotive_speed=slowest,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_raised_ne_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_raised_ne_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_raised_ne_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_raised_ne_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,reverse=false,locomotive_speed=slower,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_raised_ne_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_raised_ne_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_raised_ne_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_raised_ne_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,reverse=false,locomotive_speed=normal,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_raised_ne_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_raised_ne_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_raised_ne_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_raised_ne_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,reverse=false,locomotive_speed=max,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_raised_ne_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_raised_ne_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_raised_ne_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_raised_ne_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,reverse=true,locomotive_speed=slowest,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_raised_ne_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_raised_ne_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_raised_ne_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_raised_ne_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,reverse=true,locomotive_speed=slower,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_raised_ne_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_raised_ne_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_raised_ne_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_raised_ne_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,reverse=true,locomotive_speed=normal,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_raised_ne_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_raised_ne_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_raised_ne_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_raised_ne_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,reverse=true,locomotive_speed=max,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_raised_ne_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_raised_ne_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_raised_ne_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_raised_ne_4_on",
+        "y": 90
+      }
+    ],
+    "powered=false,reverse=true,locomotive_speed=slowest,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_raised_sw_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_raised_sw_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_raised_sw_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_raised_sw_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,reverse=true,locomotive_speed=slower,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_raised_sw_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_raised_sw_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_raised_sw_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_raised_sw_4_off",
+        "y": 90
+      }
+
+    ],
+    "powered=false,reverse=true,locomotive_speed=normal,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_raised_sw_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_raised_sw_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_raised_sw_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_raised_sw_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,reverse=true,locomotive_speed=max,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_raised_sw_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_raised_sw_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_raised_sw_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_raised_sw_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,reverse=false,locomotive_speed=slowest,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_raised_sw_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_raised_sw_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_raised_sw_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_raised_sw_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,reverse=false,locomotive_speed=slower,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_raised_sw_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_raised_sw_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_raised_sw_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_raised_sw_4_off",
+        "y": 90
+      }
+
+    ],
+    "powered=false,reverse=false,locomotive_speed=normal,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_raised_sw_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_raised_sw_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_raised_sw_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_raised_sw_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,reverse=false,locomotive_speed=max,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_raised_sw_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_raised_sw_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_raised_sw_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_raised_sw_4_off",
+        "y": 90
+      }
+    ],
+    "powered=true,reverse=true,locomotive_speed=slowest,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_raised_sw_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_raised_sw_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_raised_sw_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_1_track_raised_sw_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,reverse=true,locomotive_speed=slower,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_raised_sw_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_raised_sw_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_raised_sw_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_2_track_raised_sw_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,reverse=true,locomotive_speed=normal,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_raised_sw_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_raised_sw_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_raised_sw_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_3_track_raised_sw_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,reverse=true,locomotive_speed=max,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_raised_sw_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_raised_sw_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_raised_sw_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_4_track_raised_sw_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,reverse=false,locomotive_speed=slowest,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_raised_sw_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_raised_sw_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_raised_sw_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_1_track_raised_sw_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,reverse=false,locomotive_speed=slower,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_raised_sw_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_raised_sw_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_raised_sw_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_2_track_raised_sw_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,reverse=false,locomotive_speed=normal,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_raised_sw_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_raised_sw_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_raised_sw_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_3_track_raised_sw_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,reverse=false,locomotive_speed=max,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_raised_sw_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_raised_sw_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_raised_sw_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_throttle_reversed_4_track_raised_sw_4_on",
+        "y": 90
+      }
+    ]
+  }
+}

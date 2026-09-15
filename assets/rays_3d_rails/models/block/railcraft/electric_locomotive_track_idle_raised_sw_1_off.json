@@ -1,0 +1,6 @@
+{
+  "parent": "rays_3d_rails:block/railcraft/electric_locomotive_track_shutdown_raised_sw_1_off",
+  "textures": {
+    "status": "rays_3d_rails:block/special/status_idle"
+  }
+}

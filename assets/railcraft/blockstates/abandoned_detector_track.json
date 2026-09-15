@@ -1,0 +1,1084 @@
+{
+  "variants": {
+    "powered=false,mode=bi_directional,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_1_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_1_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_1_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_1_4_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_2_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_2_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_2_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_2_4_off"
+      }
+    ],
+    "powered=false,mode=travel,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_1_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_1_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_1_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_1_4_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_2_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_2_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_2_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_2_4_off"
+      }
+    ],
+    "powered=false,mode=travel_reversed,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_1_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_1_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_1_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_1_4_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_2_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_2_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_2_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_2_4_off"
+      }
+    ],
+    "powered=true,mode=bi_directional,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_1_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_1_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_1_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_1_4_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_2_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_2_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_2_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_2_4_on"
+      }
+    ],
+    "powered=true,mode=travel,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_1_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_1_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_1_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_1_4_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_2_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_2_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_2_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_2_4_on"
+      }
+    ],
+    "powered=true,mode=travel_reversed,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_1_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_1_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_1_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_1_4_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_2_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_2_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_2_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_2_4_on"
+      }
+    ],
+    "powered=false,mode=bi_directional,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_1_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_1_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_1_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_1_4_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_2_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_2_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_2_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_2_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,mode=travel,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_1_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_1_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_1_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_1_4_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_2_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_2_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_2_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_2_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,mode=travel_reversed,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_1_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_1_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_1_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_1_4_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_2_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_2_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_2_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_2_4_off",
+        "y": 90
+      }
+    ],
+    "powered=true,mode=bi_directional,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_1_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_1_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_1_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_1_4_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_2_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_2_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_2_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_2_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,mode=travel,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_1_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_1_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_1_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_1_4_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_2_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_2_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_2_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_2_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,mode=travel_reversed,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_1_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_1_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_1_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_1_4_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_2_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_2_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_2_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_2_4_on",
+        "y": 90
+      }
+    ],
+    "powered=false,mode=bi_directional,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_ne_1_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_ne_1_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_ne_1_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_ne_1_4_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_ne_2_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_ne_2_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_ne_2_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_ne_2_4_off"
+      }
+    ],
+    "powered=false,mode=travel,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_ne_1_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_ne_1_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_ne_1_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_ne_1_4_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_ne_2_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_ne_2_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_ne_2_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_ne_2_4_off"
+      }
+    ],
+    "powered=false,mode=travel_reversed,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_ne_1_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_ne_1_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_ne_1_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_ne_1_4_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_ne_2_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_ne_2_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_ne_2_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_ne_2_4_off"
+      }
+    ],
+    "powered=true,mode=bi_directional,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_ne_1_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_ne_1_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_ne_1_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_ne_1_4_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_ne_2_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_ne_2_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_ne_2_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_ne_2_4_on"
+      }
+    ],
+    "powered=true,mode=travel,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_ne_1_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_ne_1_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_ne_1_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_ne_1_4_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_ne_2_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_ne_2_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_ne_2_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_ne_2_4_on"
+      }
+    ],
+    "powered=true,mode=travel_reversed,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_ne_1_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_ne_1_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_ne_1_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_ne_1_4_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_ne_2_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_ne_2_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_ne_2_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_ne_2_4_on"
+      }
+    ],
+    "powered=false,mode=bi_directional,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_sw_1_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_sw_1_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_sw_1_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_sw_1_4_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_sw_2_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_sw_2_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_sw_2_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_sw_2_4_off"
+      }
+    ],
+    "powered=false,mode=travel,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_sw_1_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_sw_1_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_sw_1_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_sw_1_4_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_sw_2_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_sw_2_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_sw_2_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_sw_2_4_off"
+      }
+    ],
+    "powered=false,mode=travel_reversed,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_sw_1_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_sw_1_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_sw_1_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_sw_1_4_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_sw_2_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_sw_2_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_sw_2_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_sw_2_4_off"
+      }
+    ],
+    "powered=true,mode=bi_directional,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_sw_1_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_sw_1_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_sw_1_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_sw_1_4_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_sw_2_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_sw_2_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_sw_2_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_sw_2_4_on"
+      }
+    ],
+    "powered=true,mode=travel,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_sw_1_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_sw_1_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_sw_1_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_sw_1_4_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_sw_2_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_sw_2_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_sw_2_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_sw_2_4_on"
+      }
+    ],
+    "powered=true,mode=travel_reversed,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_sw_1_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_sw_1_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_sw_1_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_sw_1_4_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_sw_2_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_sw_2_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_sw_2_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_sw_2_4_on"
+      }
+    ],
+    "powered=false,mode=bi_directional,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_ne_1_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_ne_1_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_ne_1_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_ne_1_4_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_ne_2_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_ne_2_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_ne_2_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_ne_2_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,mode=travel,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_ne_1_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_ne_1_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_ne_1_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_ne_1_4_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_ne_2_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_ne_2_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_ne_2_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_ne_2_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,mode=travel_reversed,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_ne_1_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_ne_1_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_ne_1_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_ne_1_4_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_ne_2_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_ne_2_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_ne_2_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_ne_2_4_off",
+        "y": 90
+      }
+    ],
+    "powered=true,mode=bi_directional,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_ne_1_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_ne_1_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_ne_1_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_ne_1_4_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_ne_2_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_ne_2_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_ne_2_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_ne_2_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,mode=travel,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_ne_1_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_ne_1_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_ne_1_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_ne_1_4_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_ne_2_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_ne_2_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_ne_2_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_ne_2_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,mode=travel_reversed,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_ne_1_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_ne_1_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_ne_1_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_ne_1_4_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_ne_2_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_ne_2_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_ne_2_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_ne_2_4_on",
+        "y": 90
+      }
+    ],
+    "powered=false,mode=bi_directional,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_sw_1_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_sw_1_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_sw_1_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_sw_1_4_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_sw_2_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_sw_2_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_sw_2_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_sw_2_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,mode=travel,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_sw_1_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_sw_1_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_sw_1_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_sw_1_4_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_sw_2_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_sw_2_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_sw_2_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_sw_2_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,mode=travel_reversed,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_sw_1_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_sw_1_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_sw_1_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_sw_1_4_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_sw_2_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_sw_2_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_sw_2_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_sw_2_4_off",
+        "y": 90
+      }
+    ],
+    "powered=true,mode=bi_directional,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_sw_1_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_sw_1_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_sw_1_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_sw_1_4_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_sw_2_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_sw_2_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_sw_2_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_raised_sw_2_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,mode=travel,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_sw_1_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_sw_1_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_sw_1_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_sw_1_4_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_sw_2_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_sw_2_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_sw_2_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_down_raised_sw_2_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,mode=travel_reversed,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_sw_1_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_sw_1_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_sw_1_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_sw_1_4_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_sw_2_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_sw_2_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_sw_2_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_detector_up_raised_sw_2_4_on",
+        "y": 90
+      }
+    ]
+  }
+}

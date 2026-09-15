@@ -1,5 +1,12 @@
 # RAY's 3D Rails Changelog
 
+## 3.2
+
+### Added:
+- The Copper Rail `0.9.10` Support `// 4 variants + LabPBR`
+- Railcraft Reborn `1.2.10` Support `// 4 variants + LabPBR -> Railcraft compat took ages ^^`
+- Rails Revamped `0.2.3` Support `// experimental for now`
+
 ## 3.1
 
 ### Fixed:

@@ -1,0 +1,6 @@
+{
+  "parent": "rays_3d_rails:block/railcraft/electric_disembarking_track_left_1_off",
+  "textures": {
+    "disembarking": "rays_3d_rails:block/special/disembarking_right_off"
+  }
+}

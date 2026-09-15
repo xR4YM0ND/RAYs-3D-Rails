@@ -1,0 +1,132 @@
+{
+  "variants": {
+    "reversed=false,shape=east_west,switched=false": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_wye_track_west_1"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_wye_track_west_2"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_wye_track_west_3"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_wye_track_west_4"
+      }
+    ],
+    "reversed=false,shape=east_west,switched=true": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_wye_track_west_switched_1"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_wye_track_west_switched_2"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_wye_track_west_switched_3"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_wye_track_west_switched_4"
+      }
+    ],
+    "reversed=false,shape=north_south,switched=false": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_wye_track_east_1",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_wye_track_east_2",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_wye_track_east_3",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_wye_track_east_4",
+        "y": 90
+      }
+    ],
+    "reversed=false,shape=north_south,switched=true": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_wye_track_east_switched_1",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_wye_track_east_switched_2",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_wye_track_east_switched_3",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_wye_track_east_switched_4",
+        "y": 90
+      }
+    ],
+    "reversed=true,shape=east_west,switched=false": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_wye_track_east_1"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_wye_track_east_2"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_wye_track_east_3"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_wye_track_east_4"
+      }
+    ],
+    "reversed=true,shape=east_west,switched=true": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_wye_track_east_switched_1"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_wye_track_east_switched_2"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_wye_track_east_switched_3"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_wye_track_east_switched_4"
+      }
+    ],
+    "reversed=true,shape=north_south,switched=false": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_wye_track_west_1",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_wye_track_west_2",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_wye_track_west_3",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_wye_track_west_4",
+        "y": 90
+      }
+    ],
+    "reversed=true,shape=north_south,switched=true": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_wye_track_west_switched_1",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_wye_track_west_switched_2",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_wye_track_west_switched_3",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_electric_wye_track_west_switched_4",
+        "y": 90
+      }
+    ]
+  }
+}

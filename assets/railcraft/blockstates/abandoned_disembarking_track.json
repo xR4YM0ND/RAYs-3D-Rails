@@ -1,0 +1,724 @@
+{
+  "variants": {
+    "powered=false,mirrored=false,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_1_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_1_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_1_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_1_4_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_2_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_2_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_2_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_2_4_off"
+      }
+    ],
+    "powered=false,mirrored=true,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_1_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_1_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_1_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_1_4_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_2_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_2_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_2_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_2_4_off"
+      }
+    ],
+    "powered=true,mirrored=false,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_1_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_1_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_1_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_1_4_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_2_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_2_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_2_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_2_4_on"
+      }
+    ],
+    "powered=true,mirrored=true,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_1_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_1_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_1_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_1_4_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_2_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_2_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_2_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_2_4_on"
+      }
+    ],
+    "powered=false,mirrored=false,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_1_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_1_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_1_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_1_4_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_2_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_2_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_2_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_2_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,mirrored=true,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_1_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_1_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_1_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_1_4_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_2_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_2_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_2_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_2_4_off",
+        "y": 90
+      }
+    ],
+    "powered=true,mirrored=false,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_1_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_1_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_1_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_1_4_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_2_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_2_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_2_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_2_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,mirrored=true,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_1_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_1_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_1_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_1_4_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_2_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_2_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_2_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_2_4_on",
+        "y": 90
+      }
+    ],
+    "powered=false,mirrored=false,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_ne_1_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_ne_1_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_ne_1_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_ne_1_4_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_ne_2_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_ne_2_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_ne_2_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_ne_2_4_off"
+      }
+    ],
+    "powered=false,mirrored=true,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_ne_1_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_ne_1_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_ne_1_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_ne_1_4_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_ne_2_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_ne_2_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_ne_2_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_ne_2_4_off"
+      }
+    ],
+    "powered=true,mirrored=false,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_ne_1_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_ne_1_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_ne_1_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_ne_1_4_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_ne_2_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_ne_2_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_ne_2_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_ne_2_4_on"
+      }
+    ],
+    "powered=true,mirrored=true,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_ne_1_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_ne_1_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_ne_1_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_ne_1_4_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_ne_2_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_ne_2_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_ne_2_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_ne_2_4_on"
+      }
+    ],
+    "powered=false,mirrored=false,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_sw_1_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_sw_1_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_sw_1_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_sw_1_4_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_sw_2_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_sw_2_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_sw_2_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_sw_2_4_off"
+      }
+    ],
+    "powered=false,mirrored=true,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_sw_1_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_sw_1_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_sw_1_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_sw_1_4_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_sw_2_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_sw_2_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_sw_2_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_sw_2_4_off"
+      }
+    ],
+    "powered=true,mirrored=false,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_sw_1_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_sw_1_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_sw_1_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_sw_1_4_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_sw_2_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_sw_2_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_sw_2_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_sw_2_4_on"
+      }
+    ],
+    "powered=true,mirrored=true,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_sw_1_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_sw_1_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_sw_1_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_sw_1_4_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_sw_2_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_sw_2_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_sw_2_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_sw_2_4_on"
+      }
+    ],
+    "powered=false,mirrored=false,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_ne_1_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_ne_1_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_ne_1_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_ne_1_4_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_ne_2_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_ne_2_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_ne_2_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_ne_2_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,mirrored=true,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_ne_1_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_ne_1_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_ne_1_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_ne_1_4_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_ne_2_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_ne_2_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_ne_2_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_ne_2_4_off",
+        "y": 90
+      }
+    ],
+    "powered=true,mirrored=false,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_ne_1_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_ne_1_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_ne_1_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_ne_1_4_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_ne_2_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_ne_2_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_ne_2_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_ne_2_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,mirrored=true,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_ne_1_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_ne_1_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_ne_1_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_ne_1_4_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_ne_2_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_ne_2_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_ne_2_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_ne_2_4_on",
+        "y": 90
+      }
+    ],
+    "powered=false,mirrored=false,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_sw_1_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_sw_1_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_sw_1_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_sw_1_4_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_sw_2_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_sw_2_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_sw_2_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_sw_2_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,mirrored=true,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_sw_1_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_sw_1_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_sw_1_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_sw_1_4_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_sw_2_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_sw_2_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_sw_2_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_sw_2_4_off",
+        "y": 90
+      }
+    ],
+    "powered=true,mirrored=false,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_sw_1_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_sw_1_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_sw_1_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_sw_1_4_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_sw_2_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_sw_2_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_sw_2_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_right_raised_sw_2_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,mirrored=true,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_sw_1_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_sw_1_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_sw_1_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_sw_1_4_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_sw_2_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_sw_2_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_sw_2_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_disembarking_track_left_raised_sw_2_4_on",
+        "y": 90
+      }
+    ]
+  }
+}

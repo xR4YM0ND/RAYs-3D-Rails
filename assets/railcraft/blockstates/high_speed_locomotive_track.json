@@ -1,0 +1,581 @@
+{
+  "variants": {
+    "powered=false,locomotive_mode=shutdown,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_4_off"
+      }
+    ],
+    "powered=false,locomotive_mode=idle,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_4_off"
+      }
+    ],
+    "powered=false,locomotive_mode=running,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_4_off"
+      }
+    ],
+    "powered=true,locomotive_mode=shutdown,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_4_on"
+      }
+    ],
+    "powered=true,locomotive_mode=idle,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_4_on"
+      }
+    ],
+    "powered=true,locomotive_mode=running,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_4_on"
+      }
+    ],
+    "powered=false,locomotive_mode=shutdown,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,locomotive_mode=idle,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,locomotive_mode=running,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_4_off",
+        "y": 90
+      }
+    ],
+    "powered=true,locomotive_mode=shutdown,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,locomotive_mode=idle,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,locomotive_mode=running,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_4_on",
+        "y": 90
+      }
+    ],
+    "powered=false,locomotive_mode=shutdown,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_raised_ne_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_raised_ne_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_raised_ne_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_raised_ne_4_off"
+      }
+    ],
+    "powered=false,locomotive_mode=idle,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_raised_ne_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_raised_ne_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_raised_ne_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_raised_ne_4_off"
+      }
+    ],
+    "powered=false,locomotive_mode=running,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_raised_ne_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_raised_ne_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_raised_ne_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_raised_ne_4_off"
+      }
+    ],
+    "powered=true,locomotive_mode=shutdown,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_raised_ne_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_raised_ne_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_raised_ne_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_raised_ne_4_on"
+      }
+    ],
+    "powered=true,locomotive_mode=idle,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_raised_ne_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_raised_ne_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_raised_ne_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_raised_ne_4_on"
+      }
+    ],
+    "powered=true,locomotive_mode=running,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_raised_ne_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_raised_ne_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_raised_ne_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_raised_ne_4_on"
+      }
+    ],
+    "powered=false,locomotive_mode=shutdown,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_raised_sw_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_raised_sw_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_raised_sw_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_raised_sw_4_off"
+      }
+    ],
+    "powered=false,locomotive_mode=idle,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_raised_sw_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_raised_sw_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_raised_sw_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_raised_sw_4_off"
+      }
+    ],
+    "powered=false,locomotive_mode=running,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_raised_sw_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_raised_sw_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_raised_sw_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_raised_sw_4_off"
+      }
+    ],
+    "powered=true,locomotive_mode=shutdown,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_raised_sw_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_raised_sw_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_raised_sw_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_raised_sw_4_on"
+      }
+    ],
+    "powered=true,locomotive_mode=idle,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_raised_sw_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_raised_sw_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_raised_sw_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_raised_sw_4_on"
+      }
+    ],
+    "powered=true,locomotive_mode=running,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_raised_sw_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_raised_sw_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_raised_sw_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_raised_sw_4_on"
+      }
+    ],
+    "powered=false,locomotive_mode=shutdown,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_raised_ne_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_raised_ne_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_raised_ne_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_raised_ne_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,locomotive_mode=idle,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_raised_ne_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_raised_ne_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_raised_ne_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_raised_ne_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,locomotive_mode=running,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_raised_ne_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_raised_ne_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_raised_ne_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_raised_ne_4_off",
+        "y": 90
+      }
+    ],
+    "powered=true,locomotive_mode=shutdown,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_raised_ne_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_raised_ne_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_raised_ne_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_raised_ne_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,locomotive_mode=idle,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_raised_ne_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_raised_ne_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_raised_ne_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_raised_ne_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,locomotive_mode=running,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_raised_ne_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_raised_ne_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_raised_ne_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_raised_ne_4_on",
+        "y": 90
+      }
+    ],
+    "powered=false,locomotive_mode=shutdown,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_raised_sw_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_raised_sw_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_raised_sw_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_raised_sw_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,locomotive_mode=idle,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_raised_sw_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_raised_sw_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_raised_sw_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_raised_sw_4_off",
+        "y": 90
+      }
+
+    ],
+    "powered=false,locomotive_mode=running,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_raised_sw_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_raised_sw_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_raised_sw_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_raised_sw_4_off",
+        "y": 90
+      }
+    ],
+    "powered=true,locomotive_mode=shutdown,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_raised_sw_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_raised_sw_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_raised_sw_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_shutdown_raised_sw_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,locomotive_mode=idle,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_raised_sw_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_raised_sw_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_raised_sw_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_idle_raised_sw_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,locomotive_mode=running,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_raised_sw_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_raised_sw_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_raised_sw_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_locomotive_track_running_raised_sw_4_on",
+        "y": 90
+      }
+    ]
+  }
+}

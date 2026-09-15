@@ -1,0 +1,8 @@
+{
+  "parent": "rays_3d_rails:block/railcraft/high_speed_locking_track_holding_raised_ne_1_off",
+  "textures": {
+    "detector": "rays_3d_rails:block/redstone/detector_on",
+    "redstone": "rays_3d_rails:block/redstone/standard_on",
+    "locking": "rays_3d_rails:block/special/locking_train_on"
+  }
+}

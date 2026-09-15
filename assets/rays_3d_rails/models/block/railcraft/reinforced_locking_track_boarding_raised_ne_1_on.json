@@ -1,0 +1,7 @@
+{
+  "parent": "rays_3d_rails:block/railcraft/reinforced_locking_track_boarding_raised_ne_1_off",
+  "textures": {
+    "detector": "rays_3d_rails:block/redstone/detector_on",
+    "redstone": "rays_3d_rails:block/redstone/standard_on"
+  }
+}

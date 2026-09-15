@@ -4,7 +4,9 @@
       "min_inclusive": 1,
       "max_inclusive": 999
     },
-    "pack_format": 55,
-    "description": "\u00A79\u25c6 \u00A7fVersion \u00A7b3.1\u00A7r\u00A7r\n\u00A79\u25c6 \u00A7fMade by\u00A7r xR\u00A7k4\u00A7rYM\u00A7k0\u00A7rND"
+    "pack_format": 97.1,
+    "description": "\u00A79\u25c6 \u00A7fVersion \u00A7b3.2\u00A7r\u00A7r\n\u00A79\u25c6 \u00A7fMade by\u00A7r xR\u00A7k4\u00A7rYM\u00A7k0\u00A7rND",
+    "min_format": 1,
+    "max_format": 999
   }
 }

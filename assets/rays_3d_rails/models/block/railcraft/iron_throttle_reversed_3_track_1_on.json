@@ -1,0 +1,7 @@
+{
+  "parent": "rays_3d_rails:block/railcraft/iron_throttle_1_track_1_off",
+  "textures": {
+    "redstone": "rays_3d_rails:block/redstone/standard_on",
+    "throttle": "rays_3d_rails:block/special/throttle_reversed_3"
+  }
+}

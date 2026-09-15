@@ -1,0 +1,101 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "railcraft:block/buffer_stop"
+      },
+      "when": {
+        "AND": [
+          {
+            "reversed": "false",
+            "shape": "north_south"
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "railcraft:block/buffer_stop",
+        "y": 180
+      },
+      "when": {
+        "AND": [
+          {
+            "reversed": "true",
+            "shape": "north_south"
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "railcraft:block/buffer_stop",
+        "y": 90
+      },
+      "when": {
+        "AND": [
+          {
+            "reversed": "false",
+            "shape": "east_west"
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "railcraft:block/buffer_stop",
+        "y": 270
+      },
+      "when": {
+        "AND": [
+          {
+            "reversed": "true",
+            "shape": "east_west"
+          }
+        ]
+      }
+    },
+    {
+      "apply": [
+        {
+          "model": "rays_3d_rails:block/railcraft/electric_track_1"
+        },
+        {
+          "model": "rays_3d_rails:block/railcraft/electric_track_2"
+        },
+        {
+          "model": "rays_3d_rails:block/railcraft/electric_track_3"
+        },
+        {
+          "model": "rays_3d_rails:block/railcraft/electric_track_4"
+        }
+      ],
+      "when": {
+        "shape": "north_south"
+      }
+    },
+    {
+      "apply": [
+        {
+          "model": "rays_3d_rails:block/railcraft/electric_track_1",
+          "y": 90
+        },
+        {
+          "model": "rays_3d_rails:block/railcraft/electric_track_2",
+          "y": 90
+        },
+        {
+          "model": "rays_3d_rails:block/railcraft/electric_track_3",
+          "y": 90
+        },
+        {
+          "model": "rays_3d_rails:block/railcraft/electric_track_4",
+          "y": 90
+        }
+      ],
+      "when": {
+        "shape": "east_west"
+      }
+    }
+  ]
+}

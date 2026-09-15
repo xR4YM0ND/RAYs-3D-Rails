@@ -1,0 +1,387 @@
+{
+  "variants": {
+    "powered=false,reversed=false,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_4_off"
+      }
+    ],
+    "powered=false,reversed=true,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_4_off"
+      }
+    ],
+    "powered=true,reversed=false,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_4_on"
+      }
+    ],
+    "powered=true,reversed=true,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_4_on"
+      }
+    ],
+    "powered=false,reversed=false,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,reversed=true,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_4_off",
+        "y": 90
+      }
+    ],
+    "powered=true,reversed=false,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,reversed=true,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_4_on",
+        "y": 90
+      }
+    ],
+    "powered=false,reversed=false,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_raised_ne_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_raised_ne_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_raised_ne_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_raised_ne_4_off"
+      }
+    ],
+    "powered=false,reversed=true,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_raised_ne_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_raised_ne_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_raised_ne_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_raised_ne_4_off"
+      }
+    ],
+    "powered=true,reversed=false,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_raised_ne_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_raised_ne_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_raised_ne_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_raised_ne_4_on"
+      }
+    ],
+    "powered=true,reversed=true,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_raised_ne_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_raised_ne_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_raised_ne_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_raised_ne_4_on"
+      }
+    ],
+    "powered=false,reversed=false,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_raised_sw_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_raised_sw_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_raised_sw_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_raised_sw_4_off"
+      }
+    ],
+    "powered=false,reversed=true,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_raised_sw_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_raised_sw_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_raised_sw_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_raised_sw_4_off"
+      }
+    ],
+    "powered=true,reversed=false,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_raised_sw_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_raised_sw_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_raised_sw_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_raised_sw_4_on"
+      }
+    ],
+    "powered=true,reversed=true,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_raised_sw_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_raised_sw_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_raised_sw_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_raised_sw_4_on"
+      }
+    ],
+    "powered=false,reversed=false,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_raised_ne_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_raised_ne_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_raised_ne_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_raised_ne_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,reversed=true,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_raised_ne_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_raised_ne_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_raised_ne_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_raised_ne_4_off",
+        "y": 90
+      }
+    ],
+    "powered=true,reversed=false,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_raised_ne_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_raised_ne_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_raised_ne_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_raised_ne_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,reversed=true,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_raised_ne_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_raised_ne_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_raised_ne_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_raised_ne_4_on",
+        "y": 90
+      }
+    ],
+    "powered=false,reversed=false,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_raised_sw_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_raised_sw_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_raised_sw_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_raised_sw_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,reversed=true,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_raised_sw_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_raised_sw_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_raised_sw_3_off",
+        "y": 90
+      },{
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_raised_sw_4_off",
+        "y": 90
+      }
+    ],
+    "powered=true,reversed=false,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_raised_sw_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_raised_sw_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_raised_sw_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_down_raised_sw_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,reversed=true,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_raised_sw_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_raised_sw_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_raised_sw_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/high_speed_transition_track_up_raised_sw_4_on",
+        "y": 90
+      }
+    ]
+  }
+}

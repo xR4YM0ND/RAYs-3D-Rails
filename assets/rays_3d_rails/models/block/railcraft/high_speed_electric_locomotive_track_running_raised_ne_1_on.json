@@ -1,0 +1,7 @@
+{
+  "parent": "rays_3d_rails:block/railcraft/high_speed_electric_locomotive_track_shutdown_raised_ne_1_off",
+  "textures": {
+    "redstone": "rays_3d_rails:block/redstone/standard_on",
+    "status": "rays_3d_rails:block/special/status_running_on"
+  }
+}

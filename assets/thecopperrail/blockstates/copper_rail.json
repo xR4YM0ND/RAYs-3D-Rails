@@ -1,0 +1,142 @@
+{
+  "variants": {
+    "inverted=false,powered=false,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/copper/rail_directional_north_1_off",
+        "y": 90
+      }
+    ],
+    "inverted=false,powered=false,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/copper/rail_directional_north_1_off",
+        "y": 180
+      }
+    ],
+    "inverted=false,powered=false,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/copper/rail_directional_north_raised_ne_1_off",
+        "y": 90
+      }
+    ],
+    "inverted=false,powered=false,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/copper/rail_directional_south_raised_sw_1_off",
+        "y": 180
+      }
+    ],
+    "inverted=false,powered=false,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/copper/rail_directional_north_raised_ne_1_off",
+        "y": 180
+      }
+    ],
+    "inverted=false,powered=false,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/copper/rail_directional_south_raised_sw_1_off",
+        "y": 90
+      }
+    ],
+    "inverted=false,powered=true,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/copper/rail_directional_north_1_on",
+        "y": 90
+      }
+    ],
+    "inverted=false,powered=true,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/copper/rail_directional_north_1_on",
+        "y": 180
+      }
+    ],
+    "inverted=false,powered=true,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/copper/rail_directional_north_raised_ne_1_on",
+        "y": 90
+      }
+    ],
+    "inverted=false,powered=true,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/copper/rail_directional_south_raised_sw_1_on",
+        "y": 180
+      }
+    ],
+    "inverted=false,powered=true,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/copper/rail_directional_north_raised_ne_1_on",
+        "y": 180
+      }
+    ],
+    "inverted=false,powered=true,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/copper/rail_directional_south_raised_sw_1_on",
+        "y": 90
+      }
+    ],
+    "inverted=true,powered=false,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/copper/rail_directional_north_1_off",
+        "y": 270
+      }
+    ],
+    "inverted=true,powered=false,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/copper/rail_directional_north_1_off"
+      }
+    ],
+    "inverted=true,powered=false,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/copper/rail_directional_south_raised_sw_1_off"
+      }
+    ],
+    "inverted=true,powered=false,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/copper/rail_directional_north_raised_ne_1_off"
+      }
+    ],
+    "inverted=true,powered=false,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/copper/rail_directional_north_raised_ne_1_off",
+        "y": 270
+      }
+    ],
+    "inverted=true,powered=false,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/copper/rail_directional_south_raised_sw_1_off",
+        "y": 270
+      }
+    ],
+    "inverted=true,powered=true,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/copper/rail_directional_north_1_on",
+        "y": 270
+      }
+    ],
+    "inverted=true,powered=true,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/copper/rail_directional_north_1_on"
+      }
+    ],
+    "inverted=true,powered=true,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/copper/rail_directional_south_raised_sw_1_on"
+      }
+    ],
+    "inverted=true,powered=true,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/copper/rail_directional_north_raised_ne_1_on"
+      }
+    ],
+    "inverted=true,powered=true,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/copper/rail_directional_north_raised_ne_1_on",
+        "y": 270
+      }
+    ],
+    "inverted=true,powered=true,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/copper/rail_directional_south_raised_sw_1_on",
+        "y": 270
+      }
+    ]
+  }
+}

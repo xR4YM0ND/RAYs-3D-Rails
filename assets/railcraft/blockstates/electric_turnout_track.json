@@ -1,0 +1,276 @@
+{
+  "variants": {
+    "mirrored=false,reversed=false,shape=east_west,switched=false": [
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_north_1",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_north_2",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_north_3",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_north_4",
+        "y": 90
+      }
+    ],
+    "mirrored=false,reversed=false,shape=east_west,switched=true": [
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_north_switched_1",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_north_switched_2",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_north_switched_3",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_north_switched_4",
+        "y": 90
+      }
+    ],
+    "mirrored=false,reversed=false,shape=north_south,switched=false": [
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_north_1"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_north_2"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_north_3"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_north_4"
+      }
+    ],
+    "mirrored=false,reversed=false,shape=north_south,switched=true": [
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_north_switched_1"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_north_switched_2"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_north_switched_3"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_north_switched_4"
+      }
+    ],
+    "mirrored=false,reversed=true,shape=east_west,switched=false": [
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_north_1",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_north_2",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_north_3",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_north_4",
+        "y": 270
+      }
+    ],
+    "mirrored=false,reversed=true,shape=east_west,switched=true": [
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_north_switched_1",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_north_switched_2",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_north_switched_3",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_north_switched_4",
+        "y": 270
+      }
+    ],
+    "mirrored=false,reversed=true,shape=north_south,switched=false": [
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_north_1",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_north_2",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_north_3",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_north_4",
+        "y": 180
+      }
+    ],
+    "mirrored=false,reversed=true,shape=north_south,switched=true": [
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_north_switched_1",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_north_switched_2",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_north_switched_3",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_north_switched_4",
+        "y": 180
+      }
+    ],
+    "mirrored=true,reversed=false,shape=east_west,switched=false": [
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_reversed_south_1",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_reversed_south_2",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_reversed_south_3",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_reversed_south_4",
+        "y": 270
+      }
+    ],
+    "mirrored=true,reversed=false,shape=east_west,switched=true": [
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_reversed_south_switched_1",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_reversed_south_switched_2",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_reversed_south_switched_3",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_reversed_south_switched_4",
+        "y": 270
+      }
+    ],
+    "mirrored=true,reversed=false,shape=north_south,switched=false": [
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_reversed_south_1",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_reversed_south_2",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_reversed_south_3",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_reversed_south_4",
+        "y": 180
+      }
+    ],
+    "mirrored=true,reversed=false,shape=north_south,switched=true": [
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_reversed_south_switched_1",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_reversed_south_switched_2",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_reversed_south_switched_3",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_reversed_south_switched_4",
+        "y": 180
+      }
+    ],
+    "mirrored=true,reversed=true,shape=east_west,switched=false": [
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_reversed_south_1",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_reversed_south_2",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_reversed_south_3",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_reversed_south_4",
+        "y": 90
+      }
+    ],
+    "mirrored=true,reversed=true,shape=east_west,switched=true": [
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_reversed_south_switched_1",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_reversed_south_switched_2",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_reversed_south_switched_3",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_reversed_south_switched_4",
+        "y": 90
+      }
+    ],
+    "mirrored=true,reversed=true,shape=north_south,switched=false": [
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_reversed_south_1"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_reversed_south_2"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_reversed_south_3"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_reversed_south_4"
+      }
+    ],
+    "mirrored=true,reversed=true,shape=north_south,switched=true": [
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_reversed_south_switched_1"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_reversed_south_switched_2"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_reversed_south_switched_3"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/electric_turnout_track_reversed_south_switched_4"
+      }
+    ]
+  }
+}

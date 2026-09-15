@@ -2,11 +2,13 @@
 ## Infos
 [LabPBR Material Standard Specular Texture](https://shaderlabs.org/wiki/LabPBR_Material_Standard#Specular_Texture_(_s))  
 
-Red Channel = 0 - 255 (smoothness)  
-Green Channel = 0 - 255 (reflectance) // 230+ Metals  
-Blue Channel = 0 - 64 (porosity)  
-Blue Channel = 65 - 255 (subsurface scattering)  
-Alpha Channel = 0 - 254 (emissive) // 255 = 0   
+Red Channel = 0 - 255 (smoothness) // 255 = 100% smoothness  
+Green Channel = 0 - 255 (reflectance) // 230+ Metals // 229 = 100% reflectance  
+Blue Channel = 0 - 64 (porosity) // 64 = 100% porosity // water absorption  
+Blue Channel = 65 - 255 (subsurface scattering) // 255 = 100% scattering  
+Alpha Channel = 0 - 254 (emissive) // 255 = 0 // 254 = 100% emissive  
+
+`Alpha channel in gimp -> Colors -> Components -> Decompose -> Color model = RGBA`
 
 ## Metals
 
@@ -83,4 +85,31 @@ Blue = 0
 - **Spike** (uses iron)  
 Red = 200 #c8c8c8  
 Green = 230 #e6e6e6  
-Blue = 0 
+Blue = 0  
+
+- **Brakes**  
+Red = 20 = #141414
+Green = 0
+Blue = 60 = #3d3d3d
+
+- **Ender Pearl**
+Red = 48 = 313131  
+Green = 25 = 191919  
+Blue = 48 = 313131  
+Alpha = 20 = 151515  (off)
+Alpha = 60 = 3d3d3d  (on)  
+
+- **Electric**
+Red = 250 = fbfbfb  
+Green = 0  
+Blue = 0  
+
+- **Yellow painted steel**
+Red = 200 #c8c8c8  
+Green = 45 = 2e2e2e  
+Blue = 0  
+
+- **Reinforced (Railcraft)**
+Red = 160 = a1a1a1  
+Green = 30 = 1e1e1e  
+Blue = 0  

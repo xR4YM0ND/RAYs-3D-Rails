@@ -1,0 +1,6 @@
+{
+  "parent": "rays_3d_rails:block/railcraft/high_speed_electric_transition_track_down_1_off",
+  "textures": {
+    "redstone": "rays_3d_rails:block/redstone/standard_on"
+  }
+}

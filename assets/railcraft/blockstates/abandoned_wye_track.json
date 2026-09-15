@@ -1,0 +1,244 @@
+{
+  "variants": {
+    "reversed=false,shape=east_west,switched=false": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_west_1_1"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_west_1_2"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_west_1_3"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_west_1_4"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_west_2_1"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_west_2_2"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_west_2_3"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_west_2_4"
+      }
+    ],
+    "reversed=false,shape=east_west,switched=true": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_west_switched_1_1"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_west_switched_1_2"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_west_switched_1_3"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_west_switched_1_4"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_west_switched_2_1"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_west_switched_2_2"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_west_switched_2_3"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_west_switched_2_4"
+      }
+    ],
+    "reversed=false,shape=north_south,switched=false": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_east_1_1",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_east_1_2",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_east_1_3",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_east_1_4",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_east_2_1",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_east_2_2",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_east_2_3",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_east_2_4",
+        "y": 90
+      }
+    ],
+    "reversed=false,shape=north_south,switched=true": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_east_switched_1_1",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_east_switched_1_2",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_east_switched_1_3",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_east_switched_1_4",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_east_switched_2_1",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_east_switched_2_2",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_east_switched_2_3",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_east_switched_2_4",
+        "y": 90
+      }
+    ],
+    "reversed=true,shape=east_west,switched=false": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_east_1_1"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_east_1_2"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_east_1_3"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_east_1_4"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_east_2_1"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_east_2_2"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_east_2_3"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_east_2_4"
+      }
+    ],
+    "reversed=true,shape=east_west,switched=true": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_east_switched_1_1"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_east_switched_1_2"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_east_switched_1_3"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_east_switched_1_4"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_east_switched_2_1"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_east_switched_2_2"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_east_switched_2_3"
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_east_switched_2_4"
+      }
+    ],
+    "reversed=true,shape=north_south,switched=false": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_west_1_1",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_west_1_2",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_west_1_3",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_west_1_4",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_west_2_1",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_west_2_2",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_west_2_3",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_west_2_4",
+        "y": 90
+      }
+    ],
+    "reversed=true,shape=north_south,switched=true": [
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_west_switched_1_1",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_west_switched_1_2",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_west_switched_1_3",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_west_switched_1_4",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_west_switched_2_1",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_west_switched_2_2",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_west_switched_2_3",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/railcraft/abandoned_wye_track_west_switched_2_4",
+        "y": 90
+      }
+    ]
+  }
+}
