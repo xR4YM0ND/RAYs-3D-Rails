@@ -1,0 +1,388 @@
+{
+  "variants": {
+    "powered=false,axial=false,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_4_off"
+      }
+    ],
+    "powered=false,axial=true,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_4_off"
+      }
+    ],
+    "powered=true,axial=false,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_4_on"
+      }
+    ],
+    "powered=true,axial=true,shape=north_south": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_4_on"
+      }
+    ],
+    "powered=false,axial=false,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,axial=true,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_4_off",
+        "y": 90
+      }
+    ],
+    "powered=true,axial=false,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,axial=true,shape=east_west": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_4_on",
+        "y": 90
+      }
+    ],
+    "powered=false,axial=false,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_raised_ne_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_raised_ne_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_raised_ne_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_raised_ne_4_off"
+      }
+    ],
+    "powered=false,axial=true,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_raised_ne_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_raised_ne_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_raised_ne_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_raised_ne_4_off"
+      }
+    ],
+    "powered=true,axial=false,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_raised_ne_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_raised_ne_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_raised_ne_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_raised_ne_4_on"
+      }
+    ],
+    "powered=true,axial=true,shape=ascending_north": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_raised_ne_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_raised_ne_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_raised_ne_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_raised_ne_4_on"
+      }
+    ],
+    "powered=false,axial=false,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_raised_sw_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_raised_sw_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_raised_sw_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_raised_sw_4_off"
+      }
+    ],
+    "powered=false,axial=true,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_raised_sw_1_off"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_raised_sw_2_off"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_raised_sw_3_off"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_raised_sw_4_off"
+      }
+    ],
+    "powered=true,axial=false,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_raised_sw_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_raised_sw_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_raised_sw_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_raised_sw_4_on"
+      }
+    ],
+    "powered=true,axial=true,shape=ascending_south": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_raised_sw_1_on"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_raised_sw_2_on"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_raised_sw_3_on"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_raised_sw_4_on"
+      }
+    ],
+    "powered=false,axial=false,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_raised_ne_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_raised_ne_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_raised_ne_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_raised_ne_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,axial=true,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_raised_ne_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_raised_ne_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_raised_ne_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_raised_ne_4_off",
+        "y": 90
+      }
+    ],
+    "powered=true,axial=false,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_raised_ne_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_raised_ne_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_raised_ne_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_raised_ne_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,axial=true,shape=ascending_east": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_raised_ne_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_raised_ne_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_raised_ne_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_raised_ne_4_on",
+        "y": 90
+      }
+    ],
+    "powered=false,axial=false,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_raised_sw_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_raised_sw_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_raised_sw_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_raised_sw_4_off",
+        "y": 90
+      }
+    ],
+    "powered=false,axial=true,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_raised_sw_1_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_raised_sw_2_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_raised_sw_3_off",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_raised_sw_4_off",
+        "y": 90
+      }
+    ],
+    "powered=true,axial=false,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_raised_sw_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_raised_sw_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_raised_sw_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_up_raised_sw_4_on",
+        "y": 90
+      }
+    ],
+    "powered=true,axial=true,shape=ascending_west": [
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_raised_sw_1_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_raised_sw_2_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_raised_sw_3_on",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/rail_one_way_booster_down_raised_sw_4_on",
+        "y": 90
+      }
+    ]
+  }
+}

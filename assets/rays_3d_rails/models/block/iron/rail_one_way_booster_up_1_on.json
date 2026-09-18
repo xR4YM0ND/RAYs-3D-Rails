@@ -1,0 +1,6 @@
+{
+	"parent": "rays_3d_rails:block/iron/rail_one_way_booster_up_1_off",
+	"textures": {
+		"redstone": "rays_3d_rails:block/redstone/standard_on"
+	}
+}

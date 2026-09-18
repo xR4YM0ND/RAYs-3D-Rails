@@ -1,0 +1,276 @@
+{
+  "variants": {
+    "facing=east,right_handed=false,switched=false": [
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_reversed_north_1",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_reversed_north_2",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_reversed_north_3",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_reversed_north_4",
+        "y": 90
+      }
+    ],
+    "facing=east,right_handed=false,switched=true": [
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_reversed_north_switched_1",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_reversed_north_switched_2",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_reversed_north_switched_3",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_reversed_north_switched_4",
+        "y": 90
+      }
+    ],
+    "facing=east,right_handed=true,switched=false": [
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_north_1",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_north_2",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_north_3",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_north_4",
+        "y": 90
+      }
+    ],
+    "facing=east,right_handed=true,switched=true": [
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_north_switched_1",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_north_switched_2",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_north_switched_3",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_north_switched_4",
+        "y": 90
+      }
+    ],
+    "facing=north,right_handed=false,switched=false": [
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_reversed_north_1"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_reversed_north_2"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_reversed_north_3"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_reversed_north_4"
+      }
+    ],
+    "facing=north,right_handed=false,switched=true": [
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_reversed_north_switched_1"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_reversed_north_switched_2"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_reversed_north_switched_3"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_reversed_north_switched_4"
+      }
+    ],
+    "facing=north,right_handed=true,switched=false": [
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_north_1"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_north_2"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_north_3"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_north_4"
+      }
+    ],
+    "facing=north,right_handed=true,switched=true": [
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_north_switched_1"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_north_switched_2"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_north_switched_3"
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_north_switched_4"
+      }
+    ],
+    "facing=south,right_handed=false,switched=false": [
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_reversed_north_1",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_reversed_north_2",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_reversed_north_3",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_reversed_north_4",
+        "y": 180
+      }
+    ],
+    "facing=south,right_handed=false,switched=true": [
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_reversed_north_switched_1",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_reversed_north_switched_2",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_reversed_north_switched_3",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_reversed_north_switched_4",
+        "y": 180
+      }
+    ],
+    "facing=south,right_handed=true,switched=false": [
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_north_1",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_north_2",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_north_3",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_north_4",
+        "y": 180
+      }
+    ],
+    "facing=south,right_handed=true,switched=true": [
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_north_switched_1",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_north_switched_2",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_north_switched_3",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_north_switched_4",
+        "y": 180
+      }
+    ],
+    "facing=west,right_handed=false,switched=false": [
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_reversed_north_1",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_reversed_north_2",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_reversed_north_3",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_reversed_north_4",
+        "y": 270
+      }
+    ],
+    "facing=west,right_handed=false,switched=true": [
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_reversed_north_switched_1",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_reversed_north_switched_2",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_reversed_north_switched_3",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_reversed_north_switched_4",
+        "y": 270
+      }
+    ],
+    "facing=west,right_handed=true,switched=false": [
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_north_1",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_north_2",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_north_3",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_north_4",
+        "y": 270
+      }
+    ],
+    "facing=west,right_handed=true,switched=true": [
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_north_switched_1",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_north_switched_2",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_north_switched_3",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_rails:block/iron/turnout_track_north_switched_4",
+        "y": 270
+      }
+    ]
+  }
+}

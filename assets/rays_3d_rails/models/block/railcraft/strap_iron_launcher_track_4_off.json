@@ -6,6 +6,8 @@
     "base_3": "rays_3d_rails:block/oak/base_2",
     "base_4": "rays_3d_rails:block/oak/base_1",
     "rail_1": "rays_3d_rails:block/oak/rail_2",
-    "rail_2": "rays_3d_rails:block/oak/rail_3"
+    "rail_2": "rays_3d_rails:block/oak/rail_3",
+    "launcher_1": "rays_3d_rails:block/iron/rail_2",
+    "launcher_2": "rays_3d_rails:block/iron/rail_3"
   }
 }

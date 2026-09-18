@@ -1,5 +1,14 @@
 # RAY's 3D Rails Changelog
 
+## 3.3
+
+### Added:
+- Era of Rails `1.1.1` Support `// 4 variants + LabPBR`
+- Railroadways `1.0.2` Support `// 4 variants + LabPBR`
+
+### Fixed:
+- Railcraft Reborn -> Strap Iron Launcher Track now has iron as launcher
+
 ## 3.2
 
 ### Added:

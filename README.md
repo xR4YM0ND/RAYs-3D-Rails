@@ -16,6 +16,7 @@ It doesn't add any items or blocks itself, it overwrites the model & blockstates
 - [Copper Rails](https://modrinth.com/mod/copperrails) `// 4 variants + LabPBR`
 - [Create](https://modrinth.com/mod/create) `// 1 variant + LabPBR`
 - [Create Fabric](https://modrinth.com/mod/create-fabric) `// 1 variant + LabPBR`
+- [Era of Rails](https://modrinth.com/mod/era-of-rails) `// 4 variants + LabPBR`
 - [Little Logistics](https://modrinth.com/mod/little-logistics) `// 1 variant`
 - [Modern Minecarts](https://www.curseforge.com/minecraft/mc-mods/modernminecarts) `// 1 variant`
 - [More Minecarts and Rails](https://www.curseforge.com/minecraft/mc-mods/more-minecarts) `// 1 variant`
@@ -24,6 +25,7 @@ It doesn't add any items or blocks itself, it overwrites the model & blockstates
 - [Oxidized](https://modrinth.com/mod/oxidized) `// 4 variants + LabPBR`
 - [Railcraft Reborn](https://modrinth.com/mod/railcraft-reborn) `// 4 variants + LabPBR`
 - [Rails Revamped](https://modrinth.com/mod/rails-revamped) `// experimental`
+- [Railroadways](https://modrinth.com/mod/thingamajigs-2-railroadways) `// 4 variants + LabPBR`
 - [Spelunkery](https://modrinth.com/mod/spelunkery) `// 1 variant`
 - [The Copper Rail](https://modrinth.com/mod/thecopperrail) `// 4 variants + LabPBR`
 - [Thermal Locomotion](https://modrinth.com/mod/thermal-locomotion) `// 1 variant`
