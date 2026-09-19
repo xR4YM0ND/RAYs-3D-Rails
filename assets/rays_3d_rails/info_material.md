@@ -47,6 +47,21 @@ Red = 237  #ededed
 Green = 237  #ededed  
 Blue = 0  
 
+- **Diamond**  
+Red = 255 #fefefe  
+Green = 80 #505050  
+Blue = 0  
+
+- **Emerald**  
+Red = 255 #fefefe  
+Green = 70 #474747  
+Blue = 0  
+
+- **Netherite**  
+Red = 210 #d3d3d3  
+Green = 230 #e6e6e6  
+Blue = 0  
+
 ## Materials
 
 - **Redstone** Unlit  
@@ -71,6 +86,12 @@ Green = 0
 Blue = 12 #0c0c0c  
 
 ## Special Materials  
+
+- **Breeze**  
+Red = 220 #dcdcdc  
+Green = 80 #505050  
+Blue = 0  
+Alpha = 30 #1e1e1e  
 
 - **Ghost** (Botania)  
 Red = 220 = #dcdcdc // 255  

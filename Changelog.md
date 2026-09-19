@@ -3,11 +3,20 @@
 ## 3.3
 
 ### Added:
+- Better Rails `1.2.0` Support `// 4 variants + LabPBR`
+- Copper Rails `1.0.0` Support `// 4 variants + LabPBR`
+- Copper Rails Mod `1.0.2` Support `// 4 variants + LabPBR`
+- Cubic Carts `1.0` Support `// 4 variants + LabPBR`
+- Davey's Copper Rails `1.0` Support `// 4 variants + LabPBR`
+- Diamond Rails `1.0.0` Support `// 4 variants + LabPBR`
+- Dunac's Copper Rails `1.0.0` Support `// 4 variants + LabPBR`
+- Emerald Rails `1.1.1` Support `// 4 variants + LabPBR`
 - Era of Rails `1.1.1` Support `// 4 variants + LabPBR`
+- Minecarts Overhaul `0.5.0 beta` Support `// 4 variants + LabPBR`
 - Railroadways `1.0.2` Support `// 4 variants + LabPBR`
 
 ### Fixed:
-- Railcraft Reborn -> Strap Iron Launcher Track now has iron as launcher
+- Railcraft Reborn -> Strap Iron Launcher Track now has iron as launcher instead of wood
 
 ## 3.2
 

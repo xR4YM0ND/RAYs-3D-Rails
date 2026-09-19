@@ -11,13 +11,22 @@ It doesn't add any items or blocks itself, it overwrites the model & blockstates
 </center>
 
 - [Alex's Caves](https://modrinth.com/mod/alexs-caves) `// 4 variants + LabPBR`
+- [Better Rails](https://modrinth.com/mod/better-rails) `// 4 variants + LabPBR`
 - [Botania](https://modrinth.com/mod/botania) `// 4 variants + LabPBR`
 - [Caverns & Chasms](https://modrinth.com/mod/caverns-and-chasms) `// 4 variants + LabPBR`
 - [Copper Rails](https://modrinth.com/mod/copperrails) `// 4 variants + LabPBR`
+- [Copper Rails](https://modrinth.com/mod/copper_rails) `// 4 variants + LabPBR`
+- [Copper Rails Mod](https://modrinth.com/mod/copper-rails-mod) `// 4 variants + LabPBR`
 - [Create](https://modrinth.com/mod/create) `// 1 variant + LabPBR`
 - [Create Fabric](https://modrinth.com/mod/create-fabric) `// 1 variant + LabPBR`
+- [Cubic Carts](https://modrinth.com/mod/cubic-carts) `// 4 variants + LabPBR`
+- [Davey's Copper Rails](https://modrinth.com/mod/daveys-copper-rails) `// 4 variants + LabPBR`
+- [Diamond Rails](https://modrinth.com/mod/diamondrails) `// 4 variants + LabPBR`
+- [Dunac's Copper Rails](https://modrinth.com/mod/dunacs-copper-rails) `// 4 variants + LabPBR`
+- [Emerald Rails](https://modrinth.com/mod/emerald-rails) `// 4 variants + LabPBR`
 - [Era of Rails](https://modrinth.com/mod/era-of-rails) `// 4 variants + LabPBR`
 - [Little Logistics](https://modrinth.com/mod/little-logistics) `// 1 variant`
+- [Minecarts Overhaul](https://modrinth.com/mod/minecarts-overhaul) `// 4 variants + LabPBR`
 - [Modern Minecarts](https://www.curseforge.com/minecraft/mc-mods/modernminecarts) `// 1 variant`
 - [More Minecarts and Rails](https://www.curseforge.com/minecraft/mc-mods/more-minecarts) `// 1 variant`
 - [More Rail Variants (MStV+)](https://modrinth.com/mod/more-rail-variants) `// 4 variants + LabPBR`

@@ -1,0 +1,7 @@
+{
+	"parent": "rays_3d_rails:block/diamond/enhanced_rail_powered_raised_ne_1_off",
+	"textures": {
+		"redstone": "rays_3d_rails:block/redstone/standard_on",
+		"purple_redstone": "rays_3d_rails:block/redstone/purple_on"
+	}
+}
