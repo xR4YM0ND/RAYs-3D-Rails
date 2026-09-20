@@ -1,5 +1,15 @@
 # RAY's 3D Rails Changelog
 
+## 3.4
+
+### Added:
+- Everything is Copper `1.4.5` Support `// 4 variants + LabPBR`
+- Optifine emissive textures `// untested`
+
+### Fixed:
+- More Minecarts -> wrong locking rail redstone textures
+- Copper Rails -> wrong waxed exposed copper rail item model
+
 ## 3.3
 
 ### Added:

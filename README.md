@@ -3,7 +3,7 @@
 ![rays 3d rails title wide](https://cdn.modrinth.com/data/cached_images/c885633094ef88e97e1f378bf659c6d26e68d248.png)
 
 This Resourcepack changes Block & Item model textures for Rails in Minecraft.  
-Support for LabPBR shaders since version 3.0
+Support for LabPBR shaders since version 3.0 & Optifine emissive textures since version 3.4
 
 It doesn't add any items or blocks itself, it overwrites the model & blockstates of existing rails from mods listed below & vanilla.  
  
@@ -25,6 +25,7 @@ It doesn't add any items or blocks itself, it overwrites the model & blockstates
 - [Dunac's Copper Rails](https://modrinth.com/mod/dunacs-copper-rails) `// 4 variants + LabPBR`
 - [Emerald Rails](https://modrinth.com/mod/emerald-rails) `// 4 variants + LabPBR`
 - [Era of Rails](https://modrinth.com/mod/era-of-rails) `// 4 variants + LabPBR`
+- [Everything is Copper](https://modrinth.com/mod/everythingcopper) `// 4 variants + LabPBR`
 - [Little Logistics](https://modrinth.com/mod/little-logistics) `// 1 variant`
 - [Minecarts Overhaul](https://modrinth.com/mod/minecarts-overhaul) `// 4 variants + LabPBR`
 - [Modern Minecarts](https://www.curseforge.com/minecraft/mc-mods/modernminecarts) `// 1 variant`
