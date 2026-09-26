@@ -3,10 +3,11 @@
 ![rays 3d rails title wide](https://cdn.modrinth.com/data/cached_images/c885633094ef88e97e1f378bf659c6d26e68d248.png)
 
 This Resourcepack changes Block & Item model textures for Rails in Minecraft.  
-Support for LabPBR shaders since version 3.0 & Optifine emissive textures since version 3.4
+It doesn't add any items or blocks itself, it overwrites models / blockstates & textures of existing rails from mods listed below.  
+  
+Support for LabPBR shaders since version 3.0  
+Support for Optifine emissive textures since version 3.5 (besides tinted models)  
 
-It doesn't add any items or blocks itself, it overwrites the model & blockstates of existing rails from mods listed below & vanilla.  
- 
 ## Supported Mods:
 </center>
 
@@ -34,7 +35,7 @@ It doesn't add any items or blocks itself, it overwrites the model & blockstates
 - [Mythic Metals](https://modrinth.com/mod/mythicmetals) `// 4 variants + LabPBR`
 - [Oxidized](https://modrinth.com/mod/oxidized) `// 4 variants + LabPBR`
 - [Railcraft Reborn](https://modrinth.com/mod/railcraft-reborn) `// 4 variants + LabPBR`
-- [Rails Revamped](https://modrinth.com/mod/rails-revamped) `// experimental`
+- [Rails Revamped](https://modrinth.com/mod/rails-revamped) `// 4 variants + LabPBR`
 - [Railroadways](https://modrinth.com/mod/thingamajigs-2-railroadways) `// 4 variants + LabPBR`
 - [Spelunkery](https://modrinth.com/mod/spelunkery) `// 1 variant`
 - [The Copper Rail](https://modrinth.com/mod/thecopperrail) `// 4 variants + LabPBR`

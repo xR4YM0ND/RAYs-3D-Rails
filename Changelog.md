@@ -1,5 +1,15 @@
 # RAY's 3D Rails Changelog
 
+## 3.6
+
+### Added:
+- Rails Revamped `0.3.0` Support `// fully implemented it -> not experimental anymore thx to @Macol`
+
+## 3.5
+
+### Fixed:
+- Optifine emissive textures -> wrong folder paths `// thx @Hiveko75`
+
 ## 3.4
 
 ### Added:
