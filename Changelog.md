@@ -1,5 +1,10 @@
 # RAY's 3D Rails Changelog
 
+## 3.7
+
+### Fixed:
+- Railcraft Reborn turnout track wrong mirrored state in blockstates `// thx @enricotagliavini`
+
 ## 3.6
 
 ### Added:
