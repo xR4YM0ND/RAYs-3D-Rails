@@ -1,22 +1,32 @@
 # RAY's 3D Rails Changelog
 
 ## 3.8
+
+### Fixed:
 - Updated Caverns & Chasms `3.0.1` Support `// added copper, halt & slaughter rails`
+
+---
 
 ## 3.7
 
 ### Fixed:
 - Railcraft Reborn turnout track wrong mirrored state in blockstates `// thx @enricotagliavini`
 
+---
+
 ## 3.6
 
 ### Added:
 - Rails Revamped `0.3.0` Support `// fully implemented it -> not experimental anymore thx to @Macol`
 
+---
+
 ## 3.5
 
 ### Fixed:
 - Optifine emissive textures -> wrong folder paths `// thx @Hiveko75`
+
+---
 
 ## 3.4
 
@@ -27,6 +37,8 @@
 ### Fixed:
 - More Minecarts -> wrong locking rail redstone textures
 - Copper Rails -> wrong waxed exposed copper rail item model
+
+---
 
 ## 3.3
 
@@ -46,6 +58,8 @@
 ### Fixed:
 - Railcraft Reborn -> Strap Iron Launcher Track now has iron as launcher instead of wood
 
+---
+
 ## 3.2
 
 ### Added:
@@ -53,11 +67,15 @@
 - Railcraft Reborn `1.2.10` Support `// 4 variants + LabPBR -> Railcraft compat took ages ^^`
 - Rails Revamped `0.2.3` Support `// experimental for now`
 
+---
+
 ## 3.1
 
 ### Fixed:
 - **Modern Minecarts** -> Copper Rails `// forgot to apply the copper path changes to modern minecarts`
 - **More Minecarts and Rails** -> colored detector rails texture issue due to 4 variants update `// thx @Fullooa`
+
+---
 
 ## 3.0
 This took quite a while to get my head around.  
@@ -82,26 +100,35 @@ Actual values used - *if someone is interested* - can be found [here](https://gi
 - Wrong files path for copper models `// changed data structure`
 - RP won't load due to unsupported characters in filename `// removed filename colors`
 
+---
+
 ## 2.7
 
 ### Added:
 - Copper Rails `1.0.5` Support `// up to 4 variants`
+
+---
 
 ## 2.6
 
 ### Added:
 - Mythic Metals `0.22.1` Support `// up to 4 variants`
 
+---
 
 ## 2.5
 
 ### Added:
 - More Rail Variants (MStV+) `1.0.4` Support `// up to 4 variants`
 
+---
+
 ## 2.4
 
 ### Fixed:
 - Create Cart Assembler Compat
+
+---
 
 ## 2.3
 
@@ -110,6 +137,8 @@ Actual values used - *if someone is interested* - can be found [here](https://gi
 
 ### Added:
 - Caverns and Chasms `2.0.0` Support `// up to 4 variants`
+
+---
 
 ## 2.2
 
