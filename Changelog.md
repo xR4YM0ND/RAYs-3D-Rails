@@ -1,5 +1,8 @@
 # RAY's 3D Rails Changelog
 
+## 3.8
+- Updated Caverns & Chasms `3.0.1` Support `// added copper, halt & slaughter rails`
+
 ## 3.7
 
 ### Fixed:
